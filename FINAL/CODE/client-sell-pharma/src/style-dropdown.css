@@ -1,0 +1,171 @@
+.select {
+
+    /*background-color: #fff;*/
+
+    width: 300px;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: space-between;
+
+    padding: 12px 20px;
+
+    border-radius: 5px;
+
+    cursor: pointer;
+
+    transition: 0.3s;
+
+}
+
+
+.select:active {
+
+    background-color: #ebe9e9;
+
+}
+
+
+.select i {
+
+    font-size: 15px;
+
+}
+
+
+span {
+
+    font-size: 16px;
+
+    font-weight: 500;
+
+    pointer-events: none;
+
+}                
+
+
+.icon {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 13px;
+
+}
+
+
+.icon i, .option i {
+
+    width: 26px;
+
+    height: 26px;
+
+    border-radius: 50%;
+
+    background: #dcdcdc;
+
+    font-size: 15px;
+
+    display: grid;
+
+    place-items: center;
+
+    pointer-events: none;
+
+}
+
+
+.option {
+
+    margin-top: 5px;
+
+    /*background-color: #fff;*/
+
+    border-radius: 5px;
+
+    padding: 10px 0;
+
+    display: none;
+
+}
+
+
+.option.active {
+
+    display: block;
+
+}
+
+
+.option li {
+
+    list-style: none;
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 13px;
+
+    transition: 0.3s;
+
+    padding: 10px 20px;
+
+    cursor: pointer;
+
+}
+
+
+.option li:hover {
+
+    background-color: #ebe9e9;
+
+}
+
+
+.facebook i {
+
+    color: #fff;
+
+    background: #1877f2;
+
+}
+
+
+.twitter i {
+
+    color: #fff;
+
+    background: #1da1e2;
+
+}
+
+
+.instagram i {
+
+    color: #fff;
+
+    background: #e4405f;
+
+}
+
+
+.linkeding i {
+
+    color: #fff;
+
+    background: #0072b1;
+
+}
+
+
+.youtube i {
+
+    color: #fff;
+
+    background: #cd201f;
+
+}

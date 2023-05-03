@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "63f62cd58608375eae4eea50"
+  },
+  "name": "Chăm sóc sức khỏe",
+  "image": "/upload/2023-02-22T14-55-16.913Zhacker.jpg",
+  "description": "abc",
+  "isActive": true,
+  "user": {
+    "$oid": "63ec67fdb5111f062b6685d3"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677077717163"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677566426918"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fda1bb0eb51f66e1dc7307"
+  },
+  "name": "Dược phẩm",
+  "image": "/upload/2023-02-28T06-39-54.921Zhacker.jpg",
+  "description": "Đây là dược phẩm",
+  "isActive": true,
+  "user": {
+    "$oid": "63ec67fdb5111f062b6685d3"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677566395252"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677566395252"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fda1ef0eb51f66e1dc731b"
+  },
+  "name": "Thực phẩm chức năng",
+  "image": "/upload/2023-02-28T06-40-47.166Zhacker.jpg",
+  "description": "abc",
+  "isActive": true,
+  "user": {
+    "$oid": "63ec67fdb5111f062b6685d3"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677566447493"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677566447493"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641470f5025a06b0312cf93a"
+  },
+  "name": "Mẹ và bé",
+  "image": "/upload/2023-03-17T13-53-57.378Zlogo.png",
+  "description": "Các sản phẩm chăm sóc sức khỏe cho mẹ và bé",
+  "isActive": true,
+  "user": {
+    "$oid": "63ec67fdb5111f062b6685d3"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679061237664"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679061237664"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6414716b025a06b0312cfba9"
+  },
+  "name": "Chăm sóc cá nhân",
+  "image": "/upload/2023-03-17T13-55-54.852Zlogo.png",
+  "description": "...hbhbhb",
+  "isActive": true,
+  "user": {
+    "$oid": "63ec67fdb5111f062b6685d3"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679061355103"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679846909313"
+    }
+  },
+  "__v": 0
+}]

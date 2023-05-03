@@ -1,0 +1,392 @@
+[{
+  "_id": {
+    "$oid": "642f7d434a35a61776af43c6"
+  },
+  "name": "khoa",
+  "email": "khoa@gmail.com",
+  "phone": "213245",
+  "password": "$2a$10$frRGl4DRxaxADi6Lh/E26em4ibfG9s3anxVkU1MEYGlt8zjpDCIJ.",
+  "pCoin": 0,
+  "isAdmin": false,
+  "role": "isInventory",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680833859990"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680833874937"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64301f4af6df458c41ef8e0c"
+  },
+  "name": "khoa_demo",
+  "email": "khoa12324@gmail.com",
+  "phone": "12323453",
+  "password": "$2a$10$zPJbL.bq5M39I.RhjctSOu5CXLr3gNtEx1f3uS2KwRj2dpHY7Kh4W",
+  "pCoin": 400000,
+  "isAdmin": false,
+  "role": "isInventory",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680875338218"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1681271703072"
+    }
+  },
+  "__v": 0,
+  "isDeleted": true,
+  "address": "",
+  "gender": 0,
+  "totalOrder": 4
+},{
+  "_id": {
+    "$oid": "6430253e107a9d6843784dea"
+  },
+  "name": "demo",
+  "email": "demo@gmail.com",
+  "phone": "1243",
+  "password": "$2a$10$lCY8A.Zlv0eo4QlEFtGWmuhI9TvZzwVf9Awtph0iobwdpjodgZU36",
+  "pCoin": 0,
+  "isAdmin": false,
+  "role": "isAdmin",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680876862101"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682432341029"
+    }
+  },
+  "__v": 0,
+  "address": "",
+  "gender": 0,
+  "isDeleted": false,
+  "lockTo": {
+    "$date": {
+      "$numberLong": "1683037141028"
+    }
+  },
+  "totalOrder": 0
+},{
+  "_id": {
+    "$oid": "6430283907f90056919b3506"
+  },
+  "name": "cus1",
+  "email": "cus1@gmail.com",
+  "phone": "12425434",
+  "password": "$2a$10$yCEbyL1egQb9/fgYD.gvjuV9Dg0Io52/MkZIWaUMCo944Fvdu1sBS",
+  "pCoin": 4200,
+  "isAdmin": false,
+  "role": "isSaleAgent",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680877625294"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1681957933977"
+    }
+  },
+  "__v": 0,
+  "isDeleted": false,
+  "totalOrder": 33,
+  "address": "An giang",
+  "gender": 1,
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "1681171200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6433bc11562004ac6464bc7f"
+  },
+  "name": "khoa.tranvan",
+  "email": "jsbdf@gmail.com",
+  "phone": "12324",
+  "password": "$2a$10$syGLq9uVDFsbKy4PbE0r7ONPuwgZgfka/Fsl84FMoyUCqIuL66N9O",
+  "pCoin": 0,
+  "isAdmin": false,
+  "role": "userDefault",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1681112081035"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1681117013036"
+    }
+  },
+  "__v": 0,
+  "isDeleted": true
+},{
+  "_id": {
+    "$oid": "6433bc6e562004ac6464bced"
+  },
+  "name": "Tran Khoa",
+  "email": "khoatran135.246@gmail.com",
+  "phone": "0367855407",
+  "password": "$2a$10$oHta2gLJtbwafiOiEd.7YO1gKqQY06LJvphE2BQhW2GC06u/S29tm",
+  "pCoin": 0,
+  "isAdmin": false,
+  "role": "userDefault",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1681112174197"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1681116898390"
+    }
+  },
+  "__v": 0,
+  "isDeleted": true
+},{
+  "_id": {
+    "$oid": "6434b65d59f02aed81f516e4"
+  },
+  "name": "cus2",
+  "email": "cus2@gmail.com",
+  "phone": "31423",
+  "password": "$2a$10$h8eYGFtUTF4hbOoa4RiE6e3El1p.5LZVvfD/RMLB/Xic/B6QUO7Me",
+  "pCoin": 0,
+  "isAdmin": false,
+  "isDeleted": false,
+  "role": "userDefault",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1681176157574"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1681176157574"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643603413198dd7c33427d23"
+  },
+  "name": "cus321",
+  "email": "cus3@gmail.com",
+  "phone": "1111111",
+  "address": "1111111",
+  "dataOfBirth": null,
+  "gender": 1,
+  "password": "$2a$10$kDIj5bWYhTv1NfJOK41nrub6peD5rwf.rH7LvxGxZG50f2L6V32Je",
+  "pCoin": 17650,
+  "isAdmin": false,
+  "isDeleted": false,
+  "role": "userDefault",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1681261377896"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682299703000"
+    }
+  },
+  "__v": 0,
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "1681084800000"
+    }
+  },
+  "totalOrder": 13,
+  "lockTo": {
+    "$date": {
+      "$numberLong": "1682904502990"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6443e230dba892edd48d28e1"
+  },
+  "name": "khoa tran ",
+  "email": "khoatran@gmail.com",
+  "phone": "124345",
+  "address": "An giang",
+  "gender": 1,
+  "password": "$2a$10$7zT2yWfoP.HEVvXhnrDkQupZ.jHbY0G7Gklolst3bQI2Hs85BtRB2",
+  "pCoin": 24900,
+  "isAdmin": false,
+  "isDeleted": false,
+  "role": "userDefault",
+  "totalOrder": 22,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682170416386"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682432099331"
+    }
+  },
+  "__v": 0,
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "1681084800000"
+    }
+  },
+  "lockTo": {
+    "$date": {
+      "$numberLong": "1682211328770"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6447dc47497e76eeacf68bde"
+  },
+  "name": "nhonhoa",
+  "email": "nhonhoa@gmail.com",
+  "phone": "12414324",
+  "address": "",
+  "gender": 0,
+  "password": "$2a$10$Rc/rNA8oqzRvLH7wCBW4JOtQOLqKCfIp9dMpuc5uX2xahK/CkDPcu",
+  "pCoin": 0,
+  "isAdmin": false,
+  "isDeleted": false,
+  "role": "userDefault",
+  "totalOrder": 0,
+  "lockTo": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682431047236"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682431047236"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6447dc87497e76eeacf68c9e"
+  },
+  "name": "phucminh",
+  "email": "phucminh@gmail.com",
+  "phone": "123243",
+  "address": "",
+  "gender": 0,
+  "password": "$2a$10$jKYEXCAbhRfnAhR6FbQWc.zxm12prXzcP.fSbrD0bNTwgv9KnSqTu",
+  "pCoin": 0,
+  "isAdmin": false,
+  "isDeleted": false,
+  "role": "userDefault",
+  "totalOrder": 0,
+  "lockTo": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682431111580"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682431111580"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6447dcf0497e76eeacf68d5d"
+  },
+  "name": "ykhoa",
+  "email": "ykhoa@gmail.com",
+  "phone": "123442",
+  "address": "",
+  "gender": 0,
+  "password": "$2a$10$1Z84W6mDwhbq.QKv0TXvEea6x1ZT/XIHzDPEygE2unBcUkfujZsIW",
+  "pCoin": 0,
+  "isAdmin": false,
+  "isDeleted": false,
+  "role": "userDefault",
+  "totalOrder": 0,
+  "lockTo": {
+    "$date": {
+      "$numberLong": "1683037134218"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682431216547"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682432334219"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6447dd64497e76eeacf68e1c"
+  },
+  "name": "demo1",
+  "email": "demo1@gmail.com",
+  "phone": "1324",
+  "address": "",
+  "gender": 0,
+  "password": "$2a$10$KdjSPmPPHKwEsSiVlA8cd.pFo/jLPx871YO7zn8lm9hrSwth2OfMe",
+  "pCoin": 0,
+  "isAdmin": false,
+  "isDeleted": false,
+  "role": "userDefault",
+  "totalOrder": 0,
+  "lockTo": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682431332806"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682431332806"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6447de0e497e76eeacf68f1c"
+  },
+  "name": "demo6",
+  "email": "demo6@gmail.com",
+  "phone": "13243534",
+  "address": "",
+  "gender": 0,
+  "password": "$2a$10$euTA1nTp2RhDFV6QDbmr6ubvLmDPMBpIMTIN/K5InRh6CkSFWMUg2",
+  "pCoin": 0,
+  "isAdmin": false,
+  "isDeleted": false,
+  "role": "userDefault",
+  "totalOrder": 0,
+  "lockTo": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682431502724"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682431502724"
+    }
+  },
+  "__v": 0
+}]

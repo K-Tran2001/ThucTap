@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "6408318fdd23c1aca7a65201"
+  },
+  "logo": "https://tpone.vn/webinfo_files/images/57c57e30-461d-11ed-a701-9b027010aa3d--XMLID_92_.png",
+  "phone": "0367855407",
+  "banners": [
+    {
+      "link": "/products/64285447713bb45efa3ec0f6",
+      "image": "http://localhost:5000/upload/2023-04-03T07-49-56.210Zbanner-quaythuoctay-1.jpg"
+    },
+    {
+      "link": "ewrwewe",
+      "image": "http://localhost:5000/upload/2023-04-03T08-07-22.026Zbaner-nhom-sp-1-1102.png"
+    },
+    {
+      "link": "fdgdgh",
+      "image": "http://localhost:5000/upload/2023-04-03T08-07-22.288Zimages.jpg"
+    }
+  ],
+  "companyName": "CÔNG TY TRÁCH NHIỆM HỮU HẠN TPONE",
+  "companyAddress": "Địa chỉ: Số 2996/17 hẻm Trần Hưng Đạo, Phường Mỹ Thạnh, TP. Long Xuyên, Tỉnh An Giang.",
+  "links": [
+    {
+      "name": "Trang chủ",
+      "link": "home.com"
+    },
+    {
+      "name": "000000",
+      "link": "0000"
+    }
+  ],
+  "contacts": [
+    {
+      "type": "Phone",
+      "phoneNum": "0367855407"
+    },
+    {
+      "type": "FAX",
+      "phoneNum": "1234"
+    }
+  ],
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680509242360"
+    }
+  },
+  "fbUrl": "facebook.com",
+  "qrCode": "http://localhost:5000/upload/2023-03-30T13-06-49.778Zqrcode.png",
+  "zaloUrl": "zalo.com",
+  "__v": 20
+}]

@@ -1,0 +1,127 @@
+[{
+  "_id": {
+    "$oid": "63f62adc8608375eae4eea15"
+  },
+  "name": "Thuốc không kê đơn",
+  "description": "abc",
+  "isActive": false,
+  "user": {
+    "$oid": "63ec67fdb5111f062b6685d3"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677077212491"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677566487559"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63f62bc38608375eae4eea3f"
+  },
+  "name": "Thuốc kê đơn",
+  "description": "abc",
+  "isActive": true,
+  "user": {
+    "$oid": "63ec67fdb5111f062b6685d3"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677077443216"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677566472733"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fda2350eb51f66e1dc7333"
+  },
+  "name": "TPCN nhóm đường huyết",
+  "description": "abc",
+  "isActive": true,
+  "user": {
+    "$oid": "63ec67fdb5111f062b6685d3"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677566517931"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677566517931"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fda2480eb51f66e1dc733b"
+  },
+  "name": "TPCN nhóm thần kinh",
+  "description": "xyz",
+  "isActive": true,
+  "user": {
+    "$oid": "63ec67fdb5111f062b6685d3"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677566536254"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677566536254"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fda2620eb51f66e1dc7343"
+  },
+  "name": "Thực phẩm dinh dưỡng",
+  "description": "abc",
+  "isActive": true,
+  "user": {
+    "$oid": "63ec67fdb5111f062b6685d3"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677566562721"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677566562721"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642a23507e3e5b4f38df9922"
+  },
+  "name": "TPCN dành cho trẻ em",
+  "description": "...",
+  "isActive": true,
+  "user": {
+    "$oid": "63ec67fdb5111f062b6685d3"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680483152799"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680483152799"
+    }
+  },
+  "__v": 0
+}]

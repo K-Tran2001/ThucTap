@@ -1,0 +1,792 @@
+[{
+  "_id": {
+    "$oid": "6405fc9f524831d21483d79d"
+  },
+  "name": "Acnotin 20 (Hộp 3 vỉ x 10 viên)",
+  "regisId": "12345",
+  "category": {
+    "$oid": "63f62cd58608375eae4eea50"
+  },
+  "categoryDrug": {
+    "$oid": "63fda2620eb51f66e1dc7343"
+  },
+  "unit": "Hộp",
+  "packing": "Hộp 3 vỉ x 10 viên",
+  "APIs": [
+    {
+      "API": "Drotaverin HCI",
+      "content": 400
+    }
+  ],
+  "brandName": "Acnotin 20 (Hộp 3 vỉ x 10 viên)",
+  "manufacturer": "Thái Lan",
+  "countryOfOrigin": "MEGA Lifesciences Ltd (Thái Lan)",
+  "instruction": "<p><strong>Liều dùng</strong><br>Liều dùng thông thường ở người lớn và thanh niên là 0.5-1mg/kg cân nặng mỗi ngày (chia thành hai liều, dùng trong bữa ăn) trong 15 - 20 tuần.<br>Liều tối đa là 2mg/kg cân nặng mỗi ngày được áp dụng cho những bệnh nhân bị mụn trứng cá rất nặng hoặc mụn ban đầu xuất hiện ở ngực hay lưng thay vì ở mặt.<br>Hiệu quả điều trị và tác dụng phụ của thuốc có thể khác nhau ở từng bệnh nhân sau 4 tuần điều trị, do đó nên điều chỉnh liều điều trị duy trì trong khoảng từ 0.1 - 1mg/kg cân nặng mỗi ngày, tuỳ từng trường hợp cụ thể. Trong thời gian đầu điều trị bằng isotretinoin, mụn trứng cá có thể xuất hiện nhiều hơn một chút và thoáng qua, đôi khi cần điều trị kết hợp với liệu pháp adrenocorticoid.<br>Thời gian điều trị thường kéo dài khoảng 16 tuần. Khi đánh giá hiệu quả điều trị cần lưu ý rằng tình trạng bệnh vẫn được cải thiện ngay cả khi ngưng dùng thuốc. Do đó, nên ngưng ít nhất 8 tuần trước khi bắt đầu điều trị nhắc lại bằng isotretinoin và liều điều trị nhắc lại cũng giống như liều điều trị ban đầu.<br>Dùng đồng thời với các thuốc bôi tại chỗ: không được dùng đồng thời với các thuốc điều trị mụn trứng cá bôi tại chỗ có tác dụng làm bong da, tiêu sừng hoặc xạ trị bằng tia cực tím. Bệnh nhân nên hạn chế tiếp xúc trực tiếp với ánh sáng mặt trời. Nếu cần có thể hỗ trợ điều trị bằng thuốc trị mụn trứng cá bôi tại chỗ có tác dụng nhẹ.<br>Thuốc không phù hợp đề điều trị mụn trứng cá ở trẻ em dưới 12 tuổi.</p><p><strong>Tác dụng phụ</strong><br>Phần lớn tác dụng phụ của isotretinoin liên quan đến liều, ở liều thông thường, tỉ lệ giữa nguy cơ và lợi ích của thuốc là chấp nhận được.<br>Các tác dụng phụ có thể xảy ra như sau:<br><i>- Triệu chứng thừa vitamin A:</i> thường bị khô da, niêm mạc, nứt môi, chảy máu cam, viêm kết mạc mắt, đục giác mạc có hồi phục và không sử dụng được kính áp tròng.<br><i>Da và các phần phụ khác:</i> ngoại ban, ngứa, viêm da, đổ mồ hôi u hạt mưng mủ, viêm quanh móng, teo móng, tăng tạo mô hạt, rụng tóc, xuất hiện nhiều trứng cá, rậm lông, tăng sắc tố, da tăng nhạy cảm với ánh sáng.<br><i>- Cơ và xương:</i> đau cơ, đau khớp, tăng sinh xương, viêm gân và các thay đổi khác về xương. Tâm thần và hệ thần kinh trung ương: rối loạn hành vi, trầm cảm, đau đầu, tăng áp lực nội sọ, động kinh.<br><i>- Giác quan:</i> rối loạn thị trường, giảm thính lực ở một vài tần số nhất định, sợ ánh sáng, rối loạn thích ứng trong bóng tối (giảm thị trường về đêm), đục thủy tinh thể, viêm giác mạc.<br><i>- Hệ tiêu hoá: </i>buồn nôn, viêm đại tràng, viêm hồi tràng và kết tràng, chảy máu tiêu hoá.<br><i>- Gan, mật:</i> tăng men gan tạm thời và có hồi phục, đôi khi có trường hợp bị viêm gan. Trong rất nhiều trường hợp, sự thay đổi vẫn nằm trong giới hạn bình thường và trở về giá trị ban đầu ngay trong thời gian điều trị. Tuy nhiên, vẫn có một số trường hợp phải giảm liều hoặc ngưng dùng thuốc.<br><i>- Hô hấp: </i>co thắt phế quản<br><i>- Máu:</i> giảm bạch cầu, hồng cầu, tăng hoặc giảm tiểu cầu, tăng tốc độ lắng máu<br><i>- Xét nghiệm cận lâm sàng:</i> tăng cholesterol và triglycerid huyết thanh, tăng acid uric huyết. Đã ghi nhận trường hợp giảm HDL, nhất là ở liều cao và ở những bệnh nhân mà gia đình có tiền sử rối loạn chuyển hoá lipid, đái tháo đường, béo phì hoặc nghiện rượu. Những thay đổi này có liên quan đến liều và sẽ trở về bình thường khi giảm liều hoặc ngưng dùng thuốc. Tuy nhiên, vẫn phải cảnh báo cho bệnh nhân về những tác dụng phụ có thể xảy ra khi dùng thuốc.<br><i>- Ảnh hưởng đến sức đề kháng: </i>nhiễm trùng tại chỗ hoặc toàn thân do vi khuẩn Gram dương (Staphylococcus Aureus).<br><i>Thông báo cho Bác sĩ những tác dụng không mong muốn gặp phải khi sử dụng thuốc.</i></p><p><strong>Thận trọng</strong> (Những lưu ý khi dùng thuốc)<br>Cảnh báo:<br>- Tuyệt đối tuân theo hướng dẫn sử dụng.<br>- Không được có thai trong thời gian dùng thuốc.<br>- Có nguy cơ gây dị tật thai nhi nếu có thai trong thời gian dùng thuốc.<br>Thận trọng:<br>- Chỉ dùng isotretinoin theo chỉ định của thầy thuốc có kinh nghiệm điều trị retinoid toàn thân (tốt nhất là bác sĩ da liễu) và hiểu rõ về những nguy cơ sinh quái thai nếu dùng cho phụ nữ có thai.<br>- Phải kiểm tra chức năng gan trước khi điều trị, 1 tháng sau khi bắt đầu điều trị và định kỳ mỗi 3 tháng sau đó.<br>Nồng độ lipid huyết thanh cũng nên đựơc kiểm tra trước khi điều trị, 1 tháng sau khi điều trị và sau 3-4 tháng điều trị.<br>- Đã có báo cáo về trường hợp trầm cảm, loạn thần hoặc có ý định tử tự và tự tử liên quan đến việc điều trị bằng isotretinoin. Mặc dù chưa rõ cơ chế nhưng phải quan tâm chăm sóc đặc biệt đối với bệnh nhân có tiền sử bệnh trầm cảm và phải theo dõi những dấu hiệu này ở tất cả các bệnh nhân để có biện pháp điều trị thích hợp.<br>- Khám bác sĩ khi có vấn đề về thị lực hoặc cảm thấy khó chịu khi đeo kính áp tròng. Giảm thị lực bao gồm các triệu chứng như sợ ánh sáng, khô mắt hoặc hoa mắt, những triệu chứng này có thể ảnh hưởng đến khả năng lái xe và vận hành máy móc.<br>- Phải thận trọng đánh giá giữa lợi ích và nguy cơ có thể xảy ra cho bệnh nhân và chỉ dùng isotretinoin trong những trường hợp bệnh nặng.<br>- Mụn trứng cá là bệnh có liên quan đến hormon androgen, do đó không nên dùng đồng thời với thuốc ngừa thai có chứa androgen progesterol, ví dụ như dẫn chất của 19-nortestosteron (norsteroid), nhất là trong trường hợp có vấn đề về nội tiết.<br>- Không được lột da mặt trong thời gian dùng isotretinoin và 5 - 6 tháng sau khi ngưng thuốc do có nguy cơ gây sẹo lồi.<br>- Không dùng các loại sáp nhổ lông trong thời gian điều trị isotretinoin cũng như trong vòng 5-6 tháng sau khi ngưng thuốc vì có nguy cơ gây viêm da.<br>- Đối với những nhóm bệnh nhân đặc biệt: phải thường xuyên kiểm tra các số liệu cận lâm sàng đối với những bệnh nhân trong nhóm nguy cơ cao (bệnh nhân đái tháo đường, bệnh nhân béo phì, bệnh nhân nghiện rượu hoặc rối loạn về chuyển hoá lipid) đang điều trị bằng isotretinoin.<br>Phải thường xuyên đo glucose huyết ở những bệnh nhân bị bệnh hoặc nghi ngờ bị bệnh đái tháo đường. Mặc dù chưa xác định được mối liên quan nhưng đã có báo cáo về một số trường hợp tăng glucose huyết rất nhanh, nguy cơ viêm tụy, viêm ruột, ảnh hưởng trên tai, hệ cơ xương và một số trường hợp đái tháo đường mới được phát hiện trong thời gian dùng isotretinoin.<br>Khô miệng có thể gây ra những vấn đề về răng và làm trầm trọng hơn những bệnh răng miệng như sâu răng, bệnh về nướu và nhiễm nấm. Để hạn chế những vấn đề về răng có thể dùng dung dịch thay thế nước bọt, ngậm kẹo không đường, hoặc nước đá.<br><i>Thai kỳ</i><br>Isotretinoin có nguy cơ gây sinh quái thai cao. Do đó, không dùng isotretinoin cho phụ nữ có thai hoặc dự định có thai trong thời gian dùng thuốc. Nguy cơ rất cao đối với thai nhi nếu người mẹ có thai trong thời gian dùng thuốc ở bất kỳ liều nào, ngay cả khi chỉ điều trị trong thời gian ngắn. Những bất thường về thai nhi có liên quan đến isotretinoin đã được ghi nhận bao gồm não úng thuỷ, tật đầu nhỏ, các bất thường ở tai ngoài (nhỏ hoặc không có ống tai ngoài), teo nhãn cầu, bất thường hệ tim mạch và các dị dạng về não.<br>Isotretinoin có tính ưa lipid cao, nên dễ bài xuất vào sữa mẹ. Không dùng isotretinoin trong thời gian cho con bú do có nguy cơ gây tác dụng phụ cho trẻ.<br>Phải dùng đồng thời 2 phương pháp ngừa thai hiệu quả liên tục trong 1 tháng trước khi bắt đầu điều trị, trong suốt thời gian điều trị và 1 tháng sau khi ngưng điều trị. Thăm khám để nhắc nhở bệnh nhân về tầm quan trọng của việc ngừa thai. Nếu có thai trong thời gian dùng thuốc, phải hỏi ý kiến bác sĩ về việc có nên tiếp tục có thai hay không. Chỉ bắt đầu dùng isotretinoin vào ngày thứ 2 hoặc thứ 3 của kỳ kinh kế tiếp.<br><i>Lái xe</i><br>Bệnh nhân sử dụng Isotretinoin nên thận trọng khi lái xe và vận hành máy móc nếu có triệu chứng về thị giác như hoa mắt, buồn ngủ khi sử dụng thuốc.</p><p><strong>Tương tác thuốc</strong> (Những lưu ý khi dùng chung thuốc với thực phẩm hoặc thuốc khác)<br>Không dùng đồng thời isotretinoin và vitamin A do có thể làm tăng triệu chứng thừa vitamin A. Đã ghi nhận một vài trường hợp bị tăng áp lực nội sọ khi dùng phối hợp isotretinoin và tetracylin. Do đó, không dùng tetracylin trong thời gian điều trị isotretinoin.<br>Tác dụng của progesteron liều thấp có thể bị giảm khi dùng đồng thời với isotretinoin. Do đó, không được dùng các chế phẩm có chứa progesteron liều thấp trong thời gian điều trị isotretinoin.<br>Phenytoin: thận trọng khi dùng kết hợp phenytoin và isotretinoin đồng thời vì có thể giảm tác dụng thuốc.<br>Ketoconazol: dùng đồng thời có thể làm tăng nồng độ huyết thanh của corticosteroid trong huyết tương do làm giảm thanh thải của hai thuốc này. Điều chỉnh liều dùng corticosteroid có thể là cần thiết nếu dùng đồng thời.</p><p><strong>Bảo quản:</strong> Bảo quản nơi khô mát, dưới 30°C. Tránh ánh sáng trực tiếp.<br><br><strong>Đóng gói:</strong> Hộp 3 vỉ x 10 viên</p><p><strong>Thương hiệu:</strong> MEGA<br><br><strong>Nơi sản xuất:</strong> MEGA Lifesciences Ltd (Thái Lan)<br><br><i>Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ, dược sĩ.</i><br><i>Vui lòng đọc kĩ thông tin chi tiết ở tờ rơi bên trong hộp sản phẩm.</i></p>",
+  "price": 189000,
+  "allowToSell": true,
+  "prescription": false,
+  "description": "<p><strong>Thành phần</strong><br>Mỗi viên nang gelatin mềm chứa:<br>- Hoạt chất: Isotretinoin (USP) 20mg<br>- Tá dược: Sáp ong trắng, Butylated hydroxyanisol, dinatri Edetat, Dầu thực vật hydro hóa một phần, Dầu đậu nành.<br>- Vỏ nang: Gelatin, Glycerin, Dung dịch sorbitol 76%, Carmoisin (E122), Màu xanh (FD &amp; C Blue No.1), Ponceau 4R (E124), Oxyd sắt đen (E172), Titan dioxyd (E171), Nước tinh khiết.</p><p><strong>Chỉ định</strong> (Thuốc dùng cho bệnh gì?)<br>Isotretinoin là một retinoid điều trị mụn trứng cá toàn thân, chỉ định trong trường hợp mụn trứng cá nặng, mụn trứng cá không đáp ứng với các phương pháp điều trị thông thường, mụn trứng cá gây biến dạng mặt để lại nhiều sẹo xấu, mụn trứng cá kéo dài lâu năm gây ảnh hưởng trầm trọng đến nghề nghiệp, tâm lý xã hội.</p><p><strong>Chống chỉ định</strong> (Khi nào không nên dùng thuốc này?)<br>Không dùng Isotretinoin cho những trường hợp sau:<br>- Bệnh nhân suy chức năng gan và suy chức năng thận, bệnh nhân ngộ độc Vitamin A, bệnh nhân tăng lipid máu, bệnh nhân mẫn cảm với Isotretinoin và bất kỳ thành phần nào của thuốc.<br>- Không dùng đồng thời Isotretinoin với các kháng sinh tetracylin.<br>- Phụ nữ đang mang thai, hoặc có dự định mang thai và phụ nữ đang cho con bú.<br>- Không dùng máu của bệnh nhân đang sử dụng hoặc có sử dụng Isotretinoin 1 tháng trước đó để truyền máu cho những phụ nữ trong thời gian dự định có thai.</p>",
+  "image": [
+    "http://localhost:5000/upload/2023-04-01T15-37-20.861ZAcnotin 20.jpg"
+  ],
+  "rating": 4,
+  "numberReviews": 1,
+  "reviews": [
+    {
+      "name": "Admin",
+      "rating": 4,
+      "comment": "sfbjsbgfbdjgdkjgkdnkghndkngk",
+      "user": {
+        "$oid": "63ec67fdb5111f062b6685d3"
+      },
+      "_id": {
+        "$oid": "640c2c09c1747b57086b2e61"
+      },
+      "isShow": true
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678113951065"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680491743149"
+    }
+  },
+  "__v": 3,
+  "expDrug": 3
+},{
+  "_id": {
+    "$oid": "6406021f524831d21483d80e"
+  },
+  "name": "Acenocoumarol 1mg (3 vỉ x 10 viên/hộp)",
+  "regisId": "1",
+  "category": {
+    "$oid": "63fda1bb0eb51f66e1dc7307"
+  },
+  "categoryDrug": {
+    "$oid": "63fda2350eb51f66e1dc7333"
+  },
+  "unit": "Hộp",
+  "packing": "3 vỉ x 10 viên/hộp",
+  "APIs": [
+    {
+      "API": "Methyl salicylate",
+      "content": 5
+    },
+    {
+      "API": "Acenocoumarol",
+      "content": 1
+    }
+  ],
+  "brandName": "Acenocoumarol 1mg (3 vỉ x 10 viên/hộp)",
+  "manufacturer": "Việt Nam",
+  "countryOfOrigin": "Việt Nam",
+  "instruction": "<p><strong>Liều dùng</strong><br><i>Dân số chung mục tiêu:</i><br>- Sự nhạy cảm với các chất kháng đông máu biến đổi từ bệnh nhân này sang bệnh nhân khác và cũng có thể thay đổi bất thường trong quá trình điều trị. Vì thế, cần thực hiện kiểm tra thường xuyên thời gian prothrombin (PT)/ tỉ lệ bình thường của quốc tế (INR) và theo đó điều chỉnh liều cho bệnh nhân. Nếu không thể thực hiện được, không dùng acenocoumarol.<br>- Acenocoumarol phải được dùng đường uống với liều đơn.<br><i>Liều ban đầu:</i><br>- Liều của acenocoumarol phải được cá nhân hóa. Nếu giá trị PT/INR nằm trong khoảng bình thường trước khi bắt đầu điều trị, thời biểu liều sau được khuyến cáo:<br>- Liều ban đầu có ích nằm trong khoảng 2mg/ngày đến 4mg/ngày, không dùng liều ban đầu cao hơn. Việc điều trị cũng có thể bắt đầu với chế độ liều ban đầu cao hơn, thường 6mg vào ngày đầu tiên và sang ngày thứ hai là 4mg.<br>- Nếu thời gian thromboplastin lúc đầu là bình thường, việc điều trị phải được xây dựng với sự thận trọng.<br>- Các bệnh nhân cao tuổi (&gt;65 tuổi), các bệnh nhân bị bệnh gan hoặc suy tim nặng có sung huyết gan hoặc các bệnh nhân bị suy dinh dưỡng có thể yêu cầu liều thấp hơn trong quá trình điều trị ban đầu và duy trì.<br>- Đo thời gian thromboplastin phải được thực hiện hàng ngày ở bệnh viện bắt đầu từ liều thứ hai hoặc thứ ba cho đến khi tình trạng đông máu được ổn định trong khoảng mục tiêu. Khoảng thời gian giữa các lần kiểm tra có thể được mở rộng ra trễ hơn, tùy thuộc vào sự ổn định của kết quả. Mẩu máu để thực hiện các kiểm tra ở phòng thí nghiệm phải luôn luôn được thực hiện cùng thời gian trong ngày.<br><i>Điều trị duy trì và các kiểm tra đông máu</i><br>- Liều duy trì của acenocoumarol thay đổi từ bệnh nhân này sang bệnh nhân khác và phải được kiểm tra riêng biệt trên cơ sở giá trị PT/INR. PT/INR phải được đánh giá ở khoảng thời gian đều đặn như ít nhất một lần một tháng.<br>- Liều duy trì nhìn chung nằm trong khoảng 1 đến 8mg hàng ngày tùy thuộc vào bệnh nhân riêng biệt, các bệnh khác trong cơ thể, chỉ định lâm sàng và tăng cường mong muốn kháng đông máu.<br>- Tùy thuộc vào chỉ định lâm sàng, tăng cường tối ưu kháng đông máu hoặc khoảng điều trị được nhắm tới nhìn chung nằm giữa các giá trị INR 2.0 và 3.5. Giá trị INR cao hơn tới 4.5 có thể được yêu cầu các trường hợp riêng.<br><i>INR được khuyến cáo cho điều trị kháng đông máu dùng đường uống</i></p><p>Chỉ định</p><p>INR được khuyến cáo</p><p>Phòng và điều trị nghẽn tĩnh mạch ( bao gồm tắc mạch phổi)</p><p>2.0 - 3.0</p><p>Rối loạn nhịp nhĩ</p><p>2.0 - 3.0</p><p>Sau nhồi máu cơ tim (có nguy cơ tăng biến chứng nghẽn mạch)</p><p>2.0 - 3.0</p><p>Các van tim sinh học giả</p><p>2.0 - 3.0</p><p>Dự phòng ở các bệnh nhân có hội chứng kháng phospholipid</p><p>2.0 - 3.0</p><p>Các bệnh nhân có hội chứng kháng phospholipid bị nghẽn tĩnh mạch<strong> đang điều trị bằng thuốc kháng vitamin K</strong></p><p>2.0 - 3.5</p><p>Các giá trị cơ học của tim</p><p>2.0 - 3.5</p><p>PT, chỉ sự giảm của Vitamin K lệ thuộc các yếu tố đông máu VII, X và II, tùy thuộc vào đáp ứng của thromboplastin được sử dụng để kiểm tra PT. Sự đáp ứng của thromboplastin của từng cá thể so với các chuẩn đối chiếu quốc tế của tổ chức y tế thế giới được phản ánh bởi chỉ số nhạy cảm quốc tế (ISI).<br>“Tỉ lệ bình thường quốc tế” (INR) được đưa ra với mục đích chuẩn hóa PT. INR là tỉ lệ của PT huyết tương được kháng đông máu của bệnh nhân đối với PT huyết tương bình thường dùng cùng thromboplastin trong cùng hệ thống kiểm tra đạt tới năng lực của giá trị được định nghĩa bởi chỉ số nhạy cảm quốc tế.<br><i>Việc điều trị không tiếp tục</i><br>Nhìn chung, sau khi ngưng acenocoumarol, thường không có nguy hiểm về tăng đông máu phản ứng và vì vậy không cần thiết đưa ra liều dùng được giảm từ từ. Tuy nhiên, trong các trường hợp rất hiếm, ở một số bệnh nhân có nguy cơ cao (ví dụ: sau nhồi máu cơ tim), việc ngưng thuốc phải từ từ.<br><i>Quên liều</i><br>- Tác dụng kháng đông máu của acenocoumarol kéo dài hơn 24 giờ. Nếu bệnh nhân quên dùng liều đã được kê đơn tại thời biểu đã định, liều phải được dùng càng sớm càng tốt trong cùng ngày. Bệnh nhân không nên dùng liều đã quên bằng dùng gấp đôi liều hàng ngày để bù cho các liều bị quên, nhưng phải tham khảo trở lại bác sĩ điều trị.<br><i>Sự chuyển đổi từ điều trị bằng heparin</i><br>- Trong các trạng thái lâm sàng yêu cầu kháng đông máu nhanh, điều trị ban đầu bằng heparin được thích hơn vì tác dụng kháng đông máu của acenocoumarol chậm. Việc chuyển đổi sang acenocoumarol có thể bắt đầu đồng thời với điều trị bằng heparin hoặc có thể chậm lại tùy thuộc vào trạng thái lâm sàng. Để đảm bảo kháng đông máu tiếp diễn, khuyến cáo nên tiếp tục kê đơn điều trị bằng heparin đủ liều trong ít nhất 4 ngày sau khi bắt đầu điều trị bằng acenocoumarol và tiếp tục điều trị bằng heparin đến khi INR nằm trong khoảng mục tiêu ít nhất hai ngày liên tục.<br>Trong giai đoạn chuyển đổi, giám sát chặt tác dụng kháng đông máu là cần thiết.<br><i>Điều trị trong nha khoa và phẫu thuật</i><br>Các bệnh nhân dùng acenocoumarol, người trải qua quá trình phẫu thuật hoặc xâm lấn yêu cầu thăm dò chặt chẽ tình trạng đông máu của họ. Ở các điều kiện xác định, như khi vị trí phẫu thuật bị giới hạn và có thể tiếp cận được cho phép sử dụng hiệu quả các quy trình tại chỗ cho việc cầm máu, các quá trình nha khoa và phẫu thuật rất nhỏ có thể được thực hiện trong quá trình kháng đông máu được tiếp diễn, không có nguy cơ xuất huyết quá mức. Quyết định ngưng acenocoumạrol, thậm chí trong một thời gian ngắn, phải cẩn thận xem xét các nguy cơ và các lợi ích riêng lẻ. Việc dựa vào kiểu bắc cầu điều trị kháng đông máu, như dùng heparin phải dựa trên đánh giá cẩn thận các nguy cơ tắc mạch và chảy máu.<br><i>Dân số đặc biệt</i><br><i><strong>Suy thận</strong></i><br>Acenocoumarol không được khuyên dùng cho bệnh nhân suy thận nặng do tăng nguy cơ xuất huyết. Phải thận trong ở các bệnh nhân suy thận nhẹ và vừa.<br><i><strong>Suy gan</strong></i><br>Acenocoumarol không được khuyên dùng cho bệnh nhân suy gan nặng do tăng nguy cơ xuất huyết. Phải thận trọng ở các bệnh nhân suy gan nhẹ và vừa.<br><i>Dân số trẻ em</i><br>- Kinh nghiệm về thuốc kháng đông máu dùng đường uống bao gồm acenocoumarol ở trẻ em còn hạn chế. Thận trọng và giám sát thường xuyên hơn thời gian prothrombin và INR được khuyến cáo.<br>- Người cao tuổi: liều thấp hơn được khuyến cáo, liều của người lớn có thể đủ cho các bệnh nhân lớn tuổi. Thận trọng và giám sát thường xuyên hơn thời gian prothrombin và INR được khuyến cáo.<br><i>Cách dùng</i><br>Liều hàng ngày phải luôn luôn được dùng vào cùng một thời điểm trong ngày. Viên thuốc phải được nuốt nguyên với nước.</p><p>&nbsp;</p><p><strong>Tác dụng phụ</strong><br>- Các biểu hiện chảy máu là biến chứng hay gặp nhất, có thể xảy ra trên khắp cơ thể: Hệ thần kinh trung ương, các chi, các phủ tạng, trong ổ bụng, trong nhãn cầu,...<br>- Đôi khi xảy ra tiêu chảy (có thể kèm theo phân nhiễm mỡ), đau khớp riêng lẻ.<br>- Hiếm khi xảy ra: Rụng tóc; hoại tử da khu trú, có thể do di truyền thiếu protein C hay đồng yếu tố là protein S; mẫn da dị ứng.<br>- Rất hiếm thấy bị viêm mạch máu, tổn thương gan.<br>- Xuất huyết trong các cơ quan nội tạng khác nhau do liều lượng thuốc sử dụng, độ tuổi của bệnh nhân và bản chất của các bệnh tiềm ẩn (nhưng không phải trong thời gian điều trị). Các vị trí xuất huyết có thể thấy ở: dạ dày, ruột, não, đường niệu sinh dục, tử cung, gan, túi mật và mắt. Nếu xuất huyết xảy ra ở một bệnh nhân với một thời gian thromboplastin trong phạm vi điều trị, chẩn đoán tình trạng của bệnh nhân phải được xác định rõ để có biện pháp điều trị thích hợp.<br>- Đôi khi xuất hiện các triệu chứng liên quan đến coumarin và dẫn chất của nó như: rối loạn dạ dày-ruột (mất cảm giác ngon miệng, buồn nôn, nôn), dị ứng (nổi mề day và phát ban, viêm da và sốt), rụng tóc, xuất huyết hoại tử da (do thiếu hụt protein C và protein S bẩm sinh), viêm mạch và tổn thương gan.<br><i>Hiếm gặp các tình trạng sau:</i><br>- Phản ứng dị ứng (ví dụ: mề đay, phát ban).<br>- Viêm mạch.<br>- Rối loạn tiêu hóa, mất cảm giác ngon miệng, buồn nôn, ói mửa.<br>- Xuất hiện chứng rụng tóc.<br><i>Rất hiếm:</i> Xuất huyết hoại tử da (thường kết hợp với thiếu hụt protein C bẩm sinh hoặc protein đồng yếu tố của nó S). Thông báo cho bác sỹ những tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p><p>&nbsp;</p><p><strong>Thận trọng</strong> (Những lưu ý khi dùng thuốc)<br><i>Suy gan</i><br>Phải thận trọng ở các bệnh nhân suy gan nhẹ và vừa vì sự tổng hợp các yếu tố đông máu có thể bị suy giảm hoặc có thể có hoạt động bất thường của tiểu cầu.<br><i>Suy thận</i><br>Do khả năng tích lũy các chất chuyển hóa khi bị suy giảm chức năng thận, phải thận trọng ở các bệnh nhân suy thận nhẹ và vừa.<br><i>Suy tim</i><br>Trong suy tim nặng, thời biểu về liều vô cùng thận trọng phải được thực hiện, vì sung huyết có thể giảm hoạt tính của gamma-carboxyl hóa của các yếu tố đông máu. Tuy nhiên, với sự phục hồi của sung huyết gan, cần thiết có thể tăng liều.<br><i>Huyết học</i><br>Phải thận trọng với các bệnh nhân đã biết hoặc nghi ngờ (như: chảy máu bất thường sau bị thương) thiếu hụt protein C hoặc protein S<br><i>Dân số đặc biệt</i><br>Ở các bệnh nhân trẻ em và lớn tuổi (&gt;65 tuổi), thận trọng và giám sát thường xuyên hơn thời gian prothrombin và INR được khuyến cáo.<br><i>Các thể khác</i><br>- Giám sát y tế nghiêm ngặt phải được thực hiện trong các trường hợp bệnh hoặc điều kiện có thể giảm liên kết protein của acenocoumarol (như: cường giáp, u, bệnh thận, viêm và nhiễm trùng).<br>- Các rối loạn ảnh hưỏng đến sự hấp thu của dạ dày-ruột có thể thay đổi tác dụng kháng đông máu của acenocoumarol.<br>- Trong quá trình điều trị bằng các thuốc kháng đông máu, tiêm trong cơ có thể gây bướu máu và phải được tránh. Tiêm dưới da và tiêm tĩnh mạch có thể thực hiện mà không gây biến chứng này.<br>- Chăm sóc thật kỹ phải được thực hiện là cần thiết để rút ngắn PT/INR (thời gian thromboplastin) cho quá trình chẩn đoán hoặc điều trị (như: chụp X quang, chọc dò tủy sống, phẫu thuật rất nhỏ, nhổ răng ...).<br>- Các bệnh nhân có vấn đề di truyền hiếm về dung nạp galactose, sự thiếu Lapp lactase hoặc kém hấp thu glucose-galactose không được dùng thuốc này.<br><i>Thai kỳ</i><br>- Thời kỳ mang thai<br>Đã có thống kê khoảng 4% dị dạng thai nhi khi người mẹ dùng thuốc này trong quý đầu thai kỳ. Vào các quý sau, vẫn thấy có nguy cơ (cả sảy thai). Vì vậy chỉ dùng thuốc khi không thể cho heparin.<br>- Thời kỳ cho con bú<br>Tránh cho con bú. Nếu phải cho bú thì nên bù vitamin K cho đứa trẻ.<br><i>Không dùng thuốc cho phụ nữ có thai và nuôi con bú, vì thuốc đi qua nhau thai và sữa mẹ.</i></p><p>&nbsp;</p><p><strong>Tương tác thuốc</strong><i> (Những lưu ý khi dùng chung thuốc với thực phẩm hoặc thuốc khác)</i><br>Rất nhiều thuốc có thể tương tác với thuốc kháng vitamin K nên cần theo dõi người bệnh 3-4 ngày sau khi thêm hay bớt thuốc phối hợp.<br><i>Chống chỉ định phối hợp</i><br>- Aspirin (nhất là với liều cao trên 3 g/ngày) làm tăng tác dụng chống đông máu và nguy cơ chảy máu do ức chế kết tập tiểu cầu và chuyển dịch thuốc uống chống đông máu ra khỏi liên kết với protein huyết tương.<br>- Miconazol: Xuất huyết bất ngờ có thể nặng do tăng dạng tự do trong máu và ức chế chuyển hóa của thuốc kháng vitamin K.<br>- Phenylbutazon làm tăng tác dụng chống đông máu kết hợp với kích ứng niêm mạc đường tiêu hóa.<br>- Thuốc chống viêm không steroid nhóm pyrazol: tăng nguy cơ chảy máu do ức chế tiểu cầu và kích ứng niêm mạc đường tiêu hóa.<br><i>Không nên phối hợp:</i><br>- Aspirin với liều dưới 3 g/ngày.<br>- Các thuốc chống viêm không steroid, kể cả loại ức chế chọn lọc COX-2.<br>- Cloramphenicol: Tăng tác dụng của thuốc uống chống đông máu do làm giảm chuyển hóa thuốc này tại gan. Nếu không thể tránh phối hợp thì phải kiểm tra INR thường xuyên hơn, hiệu chỉnh liều trong và sau 8 ngày ngừng cloramphenicol.<br>- Diflunisal: Tăng tác dụng của thuốc uống chống đông máu do cạnh tranh liên kết với protein huyết tương.<br>- Nên dùng thuốc giảm đau khác, thí dụ Paracetamol.<br><i>Thận trọng khi phối hợp:</i><br>Allopurinol, aminoglutethimid, amiodaron, androgen, thuốc chống trầm cảm cường serotonin, benzbromaron, bosentan, carbamazepin, cephalosporin, cimetidin (trên 800 mg/ngày), cisaprid, cholestyramin, corticoid (trừ hydrocortison dùng điều trị thay thế trong bệnh Addison), cyclin, thuốc gây độc tế bào, fibrat, các azol trị nấm, fluoroquinolon, các loại heparin, nội tiết tố tuyến giáp, thuốc gây cảm ứng enzym, các statin, macrolid (trừ spiramycin), neviparin, efavirenz, nhóm imidazol, orlistat, pentoxifylin, phenytoin, propafenon, ritonavir, lopinavir, một số sulfamid (sulfamethoxazol, sulfafurazol, sulfamethizol), sucralfat, thuốc trị ung thư (tamoxifen, raloxifen), tibolon, vitamin E trên 500 mg/ngày, rượu, thuốc chống lập kết tiểu cầu, thuốc tiêu huyết khối,... cũng làm thay đổi tác dụng chống đông máu.<br><i>Các thuốc làm tăng tác dụng chống đông máu của acenocoumarol:</i><br>- Allopurinol; Anabolic steroids; Androgen.<br>- Thuốc chống loạn nhịp tim (như amiodarone, quinidine).<br>- Thuốc kháng sinh, kháng sinh phổ rộng (như amoxicillin, coamoxiclav) macrolid (như erythromycin, clarithromycin).<br>- Cephalosporin thế hệ thứ hai và thứ ba.<br>- Metronidazole; Quinolone (như ciprofloxacin, norfloxacin, ofloxacin); Tetracyclines; Neomycin; Chloramphenicol; Fibrates (như acid clofibric).<br>- Các dẫn xuất của fibrates hoặc có cấu trúc tương tự (như gemfibrozil, fenofibrate);<br>- Disulfiram; Etacrynic acid; Glucagon; Thuốc kháng H2 (nhưcimetidine).<br>- Các dẫn xuất của imidazole (econazole, fluconazole, ketoconazole, miconazole).<br>- Paracetamol; Sulfonamides (bao gổm cả co-trimoxazole); Antidiabetic (glibenclamide).<br>- Kích thích tố tuyến giáp (dextrothyroxine).<br>- Sulfinpyrazone; Sulphonylureas (tolbutamide và chlopropamide).<br>- Statin (atorvastatin, fluvastatin, simvastatin).<br>- Các chất ức chế sự tái hấp thu serotonin chọn lọc (fluoxetine, paroxetine); Tamoxifen; 5-fluorouracil; Tramadol.<br>- Corticosteroid (methylprednisolone, prednisone).<br>- Các chất ức chế của CYP2C9, thuốc cầm máu bao gồm heparin; chất ức chế tiểu cầu (clopidogrel, dipyridamole), acid salicylic và các dẫn xuất như acetylsalicylic axit, para-aminosalicylic acid; diflunisal, phenylbutazone và các dẫn xuất pyrazolone (sulfinpyrazone); chất chống viêm không steroid (NSAIDs) bao gồm thuốc ức chế COX-2 (celecoxib) và methylprednisolone. Chúng có thể làm tăng nguy cơ xuất huyết. Trong trường hợp việc sử dụng đồng thời là không thể tránh khỏi thì việc xét nghiệm đông máu nên được thực hiện thường xuyên.<br><i>Các thuốc làm giảm tác dụng chống đông máu của thuốc acenocoumarol</i><br>- Aminoglutethimide.<br>- Các loại thuốc chống ung thư (azathioprine, 6-mercaptopurine), Barbiturates (Phenobarbital); Carbamazepine; Colestyramine; Griseofulvin; Thuốc tránh thai; Rifampicin.<br>- Các thuốc lợi tiểu; các tác nhân gây cảm ứng: CYP2C19, CYP2C9 hoặc CYP3A4.<br>- Ngoài ra. thuốc ức chế protease (indinavir, nelfinavir, ritonavir, saquinavir) cũng có ảnh hưởng đến tác dụng chống đông máu của thuốc và chưa có báo cáo nào về việc tăng hay giảm hoạt động chống đông máu của thuốc.<br>- Nồng độ hydantoin trong huyết thanh có thể tăng khi điều trị đồng thời với những dẫn xuất của hydantoin (như phenytoin).<br>- Acenocoumarol có thể làm tăng tác dụng hạ đường huyết khi sử dụng những dẫn xuất của sulphonylurea (như glibenclamide, glimepiride).<br>- Bệnh nhân bị rối loạn chức năng gan khi điều trị với Acenocoumarol nên hạn chế uống rượu.<br>- Khi điều trị với Acenocoumarol, bệnh nhân nên tránh uống nước ép của quả quất. Tăng cường giám sát và theo dõi INR đối với bệnh nhân thường xuyên sử dụng nước ép quất.<br>- Không được phối hợp với aspirin liều cao, thuốc chống viêm không steroid nhân pyrazol, miconazol dùng đường toàn thân, âm đạo; phenylbutazol, cloramphenicol, diflunisal.</p><p>&nbsp;</p><p><strong>Bảo quản</strong>: Nơi khô ráo, tránh ánh sáng, nhiệt độ không quá 30°C</p><p>&nbsp;</p><p><strong>Đóng gói:</strong> Hộp 3 vỉ x 10 viên nén</p><p>&nbsp;</p><p><strong>Thương hiệu:</strong> SPM</p><p>&nbsp;</p><p><strong>Nơi sản xuất</strong>: Lô 51, Đường số 2, KCN Tân Tạo, P.Tân Tạo A, Q.Bình Tân, TpHCM, Việt Nam</p><p>&nbsp;</p><p><i>Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ, dược sĩ.</i><br><i>Vui lòng đọc kĩ thông tin chi tiết ở tờ rơi bên trong hộp sản phẩm.</i></p>",
+  "price": 120000,
+  "allowToSell": true,
+  "prescription": true,
+  "description": "<p><strong>Thành phần</strong><br>Hoạt chất: Acenocoumarol 1,00mg<br>Tá dược vừa đủ 1 viên nén: Lactose; Hypromellose; Tinh bột ngô; Colloidal silicon dioxid; Magnesi stearat; Talc.</p><p>&nbsp;</p><p><strong>Chỉ định</strong> (Thuốc dùng cho bệnh gì?)<br>Điều trị và ngăn ngừa bệnh nghẽn mạch.</p><p>&nbsp;</p><p><strong>Chống chỉ định </strong>(Khi nào không nên dùng thuốc này?)<br>- Quá mẫn cảm với acenocoumarol, các dẫn xuất của coumarin hay thành phần có trong thuốc.<br>- Phụ nữ mang thai.<br>- Người già yếu, nghiện rượu, bị rối loạn thần kinh hoặc người không có sự giám sát.<br>- Tất cả các điều kiện về nguy cơ xuất huyết quá mức có thể có lợi ích về lâm sàng như: tạng xuất huyết và/hoặc loạn thể tạng xuất huyết.<br>- Ngay trước hoặc sau phẫu thuật trên hệ thần kinh trung ương hoặc mắt và phẫu thuật chấn thương liên quan đến sự phơi bày quá mức của các mô.<br>- Loét tiêu hóa hoặc xuất huyết bộ máy dạ dày - ruột, bộ máy niệu - sinh dục hoặc hệ hô hấp.<br>- Xuất huyết mạch máu não.<br>- Viêm màng ngoài tim cấp; chảy dịch thể màng ngoài tim.<br>- Viêm nhiễm màng trong tim.<br>- Tăng huyết áp nặng.<br>- Suy gan nặng hoặc suy thận nặng và các trường hợp hoạt động phân hủy fibrin tăng theo các hoạt động của phổi, tiền liệt tuyến hoặc tử cung.</p>",
+  "image": [
+    "http://localhost:5000/upload/2023-04-01T15-34-22.589ZAcenocoumarol 1mg.jpg"
+  ],
+  "rating": 2.5,
+  "numberReviews": 2,
+  "reviews": [
+    {
+      "name": "Admin",
+      "rating": 2,
+      "comment": "fsgdsfg",
+      "user": {
+        "$oid": "63ec67fdb5111f062b6685d3"
+      },
+      "_id": {
+        "$oid": "6406092b524831d21483da90"
+      },
+      "isShow": true
+    },
+    {
+      "name": "khoa tran ",
+      "rating": 3,
+      "comment": "sản phẩm chất lượng rất tốt",
+      "isShow": true,
+      "user": {
+        "$oid": "6443e230dba892edd48d28e1"
+      },
+      "_id": {
+        "$oid": "6443e253dba892edd48d2969"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678115359476"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682170451253"
+    }
+  },
+  "__v": 15,
+  "expDrug": 4
+},{
+  "_id": {
+    "$oid": "6427a9373fc24899736979a6"
+  },
+  "name": "Aescin 20mg (Hộp 3 vỉ x 30 viên)",
+  "regisId": "123",
+  "category": {
+    "$oid": "63fda1bb0eb51f66e1dc7307"
+  },
+  "categoryDrug": {
+    "$oid": "63fda2350eb51f66e1dc7333"
+  },
+  "expDrug": 5,
+  "unit": "Hộp",
+  "packing": "Hộp 3 vỉ x 30 viên",
+  "APIs": [
+    {
+      "API": " Aescin/Escin",
+      "content": 2
+    }
+  ],
+  "brandName": "Aescin 20mg (Hộp 3 vỉ x 30 viên)",
+  "manufacturer": "Việt Nam",
+  "countryOfOrigin": "Việt Nam",
+  "instruction": "<p><strong>Lưu ý:</strong>&nbsp;Sản phẩm này chỉ bán khi có chỉ định của bác sĩ, mọi thông tin trên Website, App chỉ mang tính chất tham khảo. Vui lòng xác nhận bạn là dược sĩ, bác sĩ, nhân viên y tế có nhu cầu tìm hiểu về sản phẩm này</p><p>Hoạt chất: Aescin/Escin 20mg</p><p>Công dụng: Điều trị thiểu năng tĩnh mạch mãn tính, giãn tĩnh mạch chân, trĩ…</p><p>Đối tượng sử dụng: Người lớn</p><p>Hình thức: Viên nén bao phim</p><p>Thương hiệu: Mipharmco&nbsp;</p><p>Nơi sản xuất: Công ty Cổ phần Dược Minh Hải (Việt Nam)</p><p>*Thuốc chỉ dùng theo đơn của bác sĩ.</p>",
+  "price": 100000,
+  "allowToSell": true,
+  "prescription": true,
+  "description": "<p><strong>Thành phần &nbsp;</strong><br>Hoạt chất: Aescin/Escin 20mg<br>Tá dược vđ 1 viên</p><p><strong>Chỉ định</strong> (Thuốc dùng cho bệnh gì?)<br>- Điều trị thiểu năng tĩnh mạch mãn tính, giãn tĩnh mạch chân, trĩ.<br>- Điều trị viêm tĩnh mạch chân.<br>- Phòng và điều trị tụ máu, chống viêm, chống phù nề sau phẫu thuật và chấn thương.</p><p><strong>Chống chỉ định</strong> (Khi nào không nên dùng thuốc này?)<br>Không dùng aescin cho những bệnh nhân:<br>- Quá mẫn cảm với bất cứ thành phần nào của thuốc.<br>- Tuyệt đối không dùng cho những bệnh nhân suy thận cấp.<br>- Phụ nữ có thai hoặc đang cho con bú.</p><p><strong>Liều dùng và cách dùng</strong><br>- Dùng để uống.<br>- Người lớn: Uống 2 viên/lần x 3 lần/ngày. Uống thuốc sau khi ăn và uống với nhiều nước. Với mục đích phòng ngừa nên dùng trước khi phẫu thuật ít nhất 16 tiếng.<br>- Sau 2 - 3 tháng điều trị có thể dùng liều duy trì với 40mg (2 viên) mỗi lần, ngày uống 2 lần.<br>- Người già: Không cần thiết phải điều chỉnh liều lượng.<br>- Trẻ em: Không khuyến cáo sử dụng.</p><p><strong>Tác dụng phụ &nbsp;</strong><br>- Rất hiếm gặp: Phản ứng quá mẫn, bao gồm nổi mề đay.<br>- Hay gặp: Rối loạn đường tiêu hóa.<br>“Thông báo cho bác sỹ những tác dụng không mong muốn gặp phải khi sử dụng thuốc”</p><p><strong>Thận trọng</strong> (Những lưu ý khi dùng thuốc)<br>- Trong suốt thời gian sử dụng liệu pháp điều trị với alpha - escin, phải kiểm tra chức năng thận.<br>- Không nên sử dụng aescin với bệnh nhân có tiền sử bệnh không dung nạp galactose, thiếu hụt lapp lactase hoặc kém hấp thu glucose - galactose.<br>- Aescin có chứa chất tạo màu vàng cam (E 110) có thể gây các phản ứng dị ứng.</p><p><strong>Tương tác thuốc</strong> (Những lưu ý khi dùng chung thuốc với thực phẩm hoặc thuốc khác)<br>- Với bệnh nhân đang dùng thuốc tránh thai, có thể tăng gấp đôi liều dùng aescin.<br>- Aescin có thể làm tăng tác dụng của các thuốc chống đông. Kháng sinh cephalosporin có thể tăng tác dụng của aescin.<br>- Nên tránh dùng đồng thời aescin với kháng sinh nhóm aminoglycosid do khả năng tăng độc tính của kháng sinh nhóm aminoglycosid trên thận.</p><p><strong>Bảo quản:</strong> Nhiệt độ dưới 30 độ C, tránh ẩm và ánh sáng</p><p><strong>Đóng gói:</strong> Hộp 3 vỉ x 30 viên</p><p><strong>Thương hiệu:</strong> Mipharmco (Việt Nam)</p><p><strong>Nơi sản xuất:</strong> Việt Nam</p><p><i>Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ, dược sĩ.</i><br><i>Vui lòng đọc kĩ thông tin chi tiết ở tờ rơi bên trong hộp sản phẩm.</i></p>",
+  "image": [
+    "http://localhost:5000/upload/2023-04-01T15-28-42.060ZAescin 20mg.jpg"
+  ],
+  "rating": 0,
+  "numberReviews": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680320823178"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680362922327"
+    }
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "642851e4713bb45efa3ebfca"
+  },
+  "name": "3B STADA (Hộp 5 vỉ x 10 viên)",
+  "regisId": "1234",
+  "category": {
+    "$oid": "63fda1bb0eb51f66e1dc7307"
+  },
+  "categoryDrug": {
+    "$oid": "63f62adc8608375eae4eea15"
+  },
+  "expDrug": 6,
+  "unit": "Hộp",
+  "packing": "Hộp 5 vỉ x 10 viên",
+  "APIs": [
+    {
+      "API": "Vitamin B1, Vitamin B6, Vitamin B12",
+      "content": 1
+    }
+  ],
+  "brandName": "3B STADA (Hộp 5 vỉ x 10 viên)",
+  "manufacturer": "Việt Nam",
+  "countryOfOrigin": "Việt Nam",
+  "instruction": "<p><strong>Chỉ định</strong><br>Điều trị các trường hợp thiếu vitamin B1, B6, B12 như: viêm đau dây thần kinh, bệnh lý dây thần kinh do thuốc, do nghiện rượu...</p><p><strong>Liều dùng và cách sử dụng</strong><br>Uống 1 đến 3 viên mỗi ngày, hoặc theo chỉ định của thầy thuốc.</p><p><strong>Chống chỉ định</strong><br>- Bệnh nhân mẫn cảm với thành phần của thuốc, hoặc có tiền sử dị ứng với vitamin B1, B12 hay các cobalamin.<br>- U ác tính.<br>- Người bệnh có cơ địa dị ứng (hen, eczema).</p><p><strong>Thận trọng</strong><br>- Ở trẻ em, khi dùng thuốc cần có sự theo dõi của người lớn.<br>- Sau thời gian dài dùng pyridoxine với liệu 200 mg/ngày, có thể đã thấy biểu hiện độc tính thần kinh (như bệnh thần kinh ngoại vi nặng và bệnh thần kinh cảm giác nặng). Dùng liều 200 mg mỗi ngày, kéo dài trên 30 ngày có thể gây hội chứng lệ thuộc pyridoxine.<br><i>- Phụ nữ có thai và cho con bú</i><br>+ Phụ nữ có thai<br><i>Thiamine (vitamin B1)</i>: Không có nguy cơ nào được biết.<br>Khẩu phần ăn uống cần cho người mang thai là 1,5 mg thiamine. Thiamine được vận chuyển tích cực vào thai. Cũng như các vitamin nhóm B khác, nồng độ thiamine trong thai và trẻ sơ sinh cao hơn ở mẹ. Một nghiên cứu cho thấy thai có hội chứng nhiễm rượu (do mẹ nghiện rượu) phát triển rất chậm trong tử cung là do thiếu thiamine do rượu gây ra.<br><i>Pyridoxine (vitamin B6</i>): Dùng với liều cao có thể gây ra hội chứng lệ thuộc thuốc ở trẻ sơ sinh.<br>Cyanocobalamin (vitamin B12): Chưa có nguy cơ được ghi nhận.<br>+ Phụ nữ cho con bú:<br><i>Thiamine (vitamin B1): </i>Mẹ dùng thiamine vẫn tiếp tục cho con bú được.<br>Khẩu phần thiamine hàng ngày trong thời gian cho con bú là 1,6 mg. Nếu chế độ ăn của người cho con bú được cung cấp đầy đủ thì không cần bổ sung thêm thiamine.<br><i>Pyridoxine (vitamin B6</i>): Mẹ dùng pyridoxine vẫn tiếp tục cho con bú được. Đã dùng pyridodine liều cao (600 mg/ngày, chia 3 lần) để làm tắc sữa, mặc dù thường không hiệu quả.<br><i>Cyanocobalamin (vitamin B12):</i> Vitamin B12 có tiết qua sữa mẹ. Mẹ dùng vitamin B12 vẫn cho con bú được.<br><i>- Tác động của thuốc lên khả năng lái xe và vận hành máy móc:</i> Thuốc không ảnh hưởng&nbsp;lên khả năng lái xe và vận hành máy móc.</p><p><strong>Tương tác thuốc</strong><br>Pyridoxine làm giảm tác dụng của levodopa trong điều trị bệnh Parkinson; điều này không xảy ra với chế phẩm là hỗn hợp levodopa - carbidopa hoặc levodopa - benserazid.<br>Liều dùng pyridoxine 200 mg/ngày có thể gây giảm 40-50% nồng độ phenytonin và phenobarbiton trong máu ở một số người bệnh.</p><p><strong>Tác dụng phụ</strong><br><i>Thiamine (vitamin B1):</i> Các phản ứng có hại của thiamine rất hiếm và thường theo kiểu dị ứng. Các phản ứng quá mẫn xảy ra chủ yếu khi tiêm.<br>Hiếm gặp:<br>Toàn thân: Ra nhiều mồ hôi, sốc quá mẫn (khi tiêm).<br>Tuần hoàn: Tăng huyết áp cấp.<br>Da: Ban da, ngứa, mày đay.<br>Hô hấp: Khó thở.<br><i>Pyridoxine (vitamin B6):</i> Dùng liều 200 mg/ngày và dài ngày (trên 2 tháng) có thể gây bệnh thần kinh ngoại vi nặng, tiến triển từ dáng đi không vững và tê cóng bàn chân đến tê cóng và vụng về bàn tay. Tình trạng này có thể hồi phục khi ngừng thuốc, mặc dù vẫn còn để lại ít nhiều di chứng.<br>Hiếm gặp: Buồn nôn và nôn.<br><i>Cyanocobalamin (vitamin B12):&nbsp;</i>Các phản ứng dị ứng do miễn dịch tuy hiếm, nhưng đôi khi rất nặng có thể gây chết người sau khi tiêm các chế phẩm có cobalamin.<br>Hiếm gặp:<br>Toàn thân: Phản vệ, sốt.<br>Ngoài da: Phản ứng dạng trứng cá, mày đay, ngứa, đỏ đa.<br>Thông báo ngay cho bác sĩ hoặc dược sĩ những phần ứng có hại gặp phải khi sử dụng thuốc.</p><p><strong>Hạn dùng:</strong> 36 tháng kể từ ngày sản xuất</p><p><strong>Bảo quản: </strong>Dưới&nbsp;30°C. Tránh ẩm và ánh sáng.</p><p><strong>Đóng gói: </strong>Hộp 5 vỉ x 10 viên<br><br><strong>Thương hiệu: </strong>Stada<br><br><strong>Nơi sản xuất: </strong>Nhà máy STADA Việt Nam</p><p>&nbsp;<br>&nbsp;</p><p><br>&nbsp;</p><p><i>Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ, dược sĩ.</i></p><p><i>Vui lòng đọc kĩ thông tin chi tiết ở tờ rơi bên trong hộp sản phẩm.</i></p>",
+  "price": 772020,
+  "allowToSell": true,
+  "prescription": false,
+  "description": "<p><strong>hành phần</strong><br>Mỗi viên nén bao phim chứa<br><i>Dược chất:</i> Thiamine mononitrate (vitamin B1) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100 mg<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pyridoxine HCl (vitamin B6)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 200 mg<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cyanocobalamin (vitamin B12)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;200 mcg<br><i>Tá dược:</i> Microcrystalline cellulose, calcium hydrogen phosphate dihydrate, povidone K30, croscarmellose sodium, sodium starch glycolate, stearic acid, magnesium stearate, colloidal silicon dioxide, methacrylic acid-methyl methacrylate copolymer (1:1), talc, triethyl citrate, sepifilm LP 770.</p>",
+  "image": [
+    "http://localhost:5000/upload/2023-04-01T15-46-43.791Z3B STADA .jpg"
+  ],
+  "rating": 4,
+  "numberReviews": 1,
+  "reviews": [
+    {
+      "name": "Khoa Tran",
+      "rating": 4,
+      "comment": "okok",
+      "isShow": true,
+      "user": {
+        "$oid": "63ec67fdb5111f062b6685d4"
+      },
+      "_id": {
+        "$oid": "642ad519ff20e6f76c7ca839"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680364004108"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680528665931"
+    }
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "64285283713bb45efa3ebfe4"
+  },
+  "name": "Acetylcystein (Hộp 10 vỉ x 10 viên)",
+  "regisId": "654321",
+  "category": {
+    "$oid": "6414716b025a06b0312cfba9"
+  },
+  "categoryDrug": {
+    "$oid": "63f62adc8608375eae4eea15"
+  },
+  "expDrug": 5,
+  "unit": "Hộp",
+  "packing": "Hộp 10 vỉ x 10 viên",
+  "APIs": [
+    {
+      "API": "Acetylcystein",
+      "content": 200
+    }
+  ],
+  "brandName": "Acetylcystein (Hộp 10 vỉ x 10 viên)",
+  "manufacturer": "Việt Nam",
+  "countryOfOrigin": "Việt Nam",
+  "instruction": "<p>Hoạt chất: Acetylcystein 200mg</p><p>Công dụng: Tiêu chất nhầy trong bệnh nhầy nhớt, bệnh lý hô hấp có đờm nhầy quánh như trong viêm phế quản cấp và mạn tính và làm sạch thường quy trong mở khí quản.</p><p>Hình thức: Viên nan</p><p>Thương hiệu: Khánh Hòa</p><p>Nơi sản xuất: Công ty Cổ phần Dược phẩm Khánh Hòa (Việt Nam)</p>",
+  "price": 65000,
+  "allowToSell": true,
+  "prescription": false,
+  "description": "<p><strong>Thành phần</strong><br>Acetylcystein 200mg<br><br><strong>Chỉ định</strong> (Thuốc dùng cho bệnh gì?)<br>Tiêu chất nhầy trong bệnh nhầy nhớt, bệnh lý hô hấp có đờm nhầy quánh như trong viêm phế quản cấp và mạn tính và làm sạch thường quy trong mở khí quản.<br><br><strong>Bảo quản:</strong> Nơi khô ráo thoáng mát, tránh ánh nắng trực tiếp<br><br><strong>Đóng gói:</strong> Hộp 10 vỉ x 10 viên<br><br><strong>Thương hiệu:</strong> Khánh Hòa<br><br><strong>Nơi sản xuất:</strong> Công ty Cổ phần Dược phẩm Khánh Hòa (Việt Nam)<br><br><i>Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ, dược sĩ.</i><br><i>Vui lòng đọc kĩ thông tin chi tiết ở tờ rơi bên trong hộp sản phẩm.</i></p>",
+  "image": [
+    "http://localhost:5000/upload/2023-04-04T07-18-22.443ZAcetylcystein.jpg"
+  ],
+  "rating": 0,
+  "numberReviews": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680364163056"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680592702739"
+    }
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "64285318713bb45efa3ebffe"
+  },
+  "name": "AcetylCystein Boston 200 (Hộp 30 gói)",
+  "regisId": "3243",
+  "category": {
+    "$oid": "63f62cd58608375eae4eea50"
+  },
+  "categoryDrug": {
+    "$oid": "63f62adc8608375eae4eea15"
+  },
+  "expDrug": 6,
+  "unit": "Hộp",
+  "packing": "Hộp 30 gói",
+  "APIs": [
+    {
+      "API": "Acetylcystein",
+      "content": 200
+    }
+  ],
+  "brandName": "AcetylCystein Boston 200 (Hộp 30 gói)",
+  "manufacturer": "Việt Nam",
+  "countryOfOrigin": "Việt Nam",
+  "instruction": "<p><strong>Thận trọng </strong>(Những lưu ý khi dùng thuốc)</p><p>Các tình trạng cần thận trọng khi dùng thuốc:</p><p>- Những bệnh nhân hen suyễn cần được theo dõi chặt chẽ khi điều trị với acetylcystein; nếu co thắt phế quản xảy ra, cần phải dùng thuốc giãn phế quản dạng khí dung. Nếu cơn co thắt phế quản vẫn tiến triển, ngưng dùng acetylcystein lập tức.</p><p>- Tăng thể tích dịch tiết loãng của phế quản có thể phát triển sau khi dùng acetylcystein, nếu ho cũng không thể thích hợp để duy trì đường thông khí trong quá trình điều trị với acetylcystein, cần sử dụng dụng cụ hút dịch cơ học hoặc đặt ống nội khí quản.</p><p>- Cần thận trọng đối với những bệnh nhân có tiền sử bệnh loét đường tiêu hóa vì các thuốc làm tiêu đờm có nguy cơ phá vỡ hàng rào niêm mạc bảo vệ của dạ dày.</p><p>- Cần thận trọng khi dùng thuốc vì thuốc có chứa tá dược màu vàng số 6 nên có thể gây ra các phản ứng dị ứng.</p><p>- Do thuốc chứa aspartam nên có thể gây ra phản ứng bất lợi cho người bị phenylceton niệu.</p><p>- Không nên sử dụng cho bệnh nhân có vấn đề về di truyền hiếm gặp không dung nạp galactose, thiếu hụt lactase hoặc kém hấp thu glucose-galactose.</p><p>&nbsp;</p><p>PHỤ NỮ CÓ THAI VÀ CHO CON BÚ</p><p>Phụ nữ có thai: Đến nay chưa có nghiên cứu đầy đủ và có kiểm soát về việc sử dụng acetylcystein ở phụ nữ có thai, chỉ dùng thuốc trong thời kỳ mang thai khi thật sự cần thiết.</p><p>Phụ nữ cho con bú: Không có dữ liệu về việc bài tiết của acetylcystein qua sữa mẹ ở người. Tuy nhiên, acetylcystein có độc tính thấp và nguy cơ tiềm ẩn xuất hiện trên trẻ em không đáng kể khi điều trị nên thuốc có thể dùng cho phụ nữ cho con bú.</p><p>&nbsp;</p><p>LÁI XE VÀ VẬN HÀNH MÁY MÓC</p><p>Thuốc có thể gây buồn ngủ và nhức đầu nên cần thận trọng khi sử dụng cho người vận hành máy móc, đang lái tàu xe, người làm việc trên cao và các trường hợp khác.</p><p>&nbsp;</p><p><strong>Tương tác thuốc</strong> (Những lưu ý khi dùng chung thuốc với thực phẩm hoặc thuốc khác)</p><p>Acetylcystein là một chất khử và tương kỵ với các chất oxy hóa.</p><p>Không được dùng đồng thời các thuốc ho khác hoặc bất cứ thuốc nào làm giảm bài tiết phế quản trong thời gian điều trị bằng acetylcystein.</p><p>&nbsp;</p><p><strong>Bảo quản:</strong> Nơi khô, dưới 30°C, tránh ánh sáng.</p><p>&nbsp;</p><p><strong>Đóng gói:</strong> Hộp 30 gói x 1g</p><p>&nbsp;</p><p><strong>Thương hiệu:</strong> Boston&nbsp;</p><p>&nbsp;</p><p><strong>Nơi sản xuất:</strong>&nbsp;Công ty Cổ phần Dược phẩm Boston (Việt Nam)</p><p>&nbsp;</p><p><i>Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ, dược sĩ.</i></p><p><i>Vui lòng đọc kĩ thông tin chi tiết ở tờ rơi bên trong hộp sản phẩm.</i></p>",
+  "price": 55000,
+  "allowToSell": true,
+  "prescription": false,
+  "description": "<p><strong>Thành phần</strong></p><p>Mỗi gói 1g có chứa:</p><p>Hoạt chất: Acetylcystein 200mg</p><p>Tá dược: Lactose monohydrat, aspartam, acid ascorbic, màu vàng số 6 lake, mùi cam, silicon dioxid.</p><p>&nbsp;</p><p><strong>Chỉ định</strong> (Thuốc dùng cho bệnh gì?)</p><p>Điều trị rối loạn tiết dịch phế quản, đặc biệt là trong các rối loạn phế quản cấp tính như viêm phế quản cấp và bệnh phổi tắc nghẽn mãn tính.</p><p>&nbsp;</p><p><strong>Chống chỉ định</strong> (Khi nào không nên dùng thuốc này?)</p><p>Quá mẫn với acetylcystein hay bất kỳ thành phần nào của thuốc.</p><p>Những người có tiền sử bị hen phế quản.</p><p>Trẻ em dưới 2 tuổi.</p><p>&nbsp;</p><p><strong>Liều dùng, cách dùng</strong></p><p>Dùng bằng đường uống. Hoà tan thuốc trong khoảng 100ml nước.</p><p>Liều lượng:</p><p>Trẻ em từ 2-7 tuổi: 1 gói/lần x 2 lần/ngày.</p><p>Trẻ em trên 7 tuổi và người lớn: 1 gói/lần x 3 lần/ngày.</p><p>&nbsp;</p><p><strong>Tác dụng phụ</strong></p><p>- Thường gặp:</p><p>Tiêu hóa: Buồn nôn, nôn.</p><p>Tim mạch: Đỏ bừng, phù, tim đập nhanh.</p><p>- Ít gặp:</p><p>Thần kinh: Buồn ngủ, nhức đầu, ù tai.</p><p>Hô hấp: Viêm miệng, chảy nước mũi nhiều, ran ngáy.</p><p>Da: Phát ban, mày đay.</p><p>- Hiếm gặp:</p><p>Toàn thân: Co thắt phế quản kèm phản ứng dạng phản vệ toàn thân, sốt, rét run.</p><p>&nbsp;</p><p>QUÁ LIỀU VÀ XỬ TRÍ</p><p>Quá liều: Acetylcystein có các triệu chứng quá liều tương tự như triệu chứng của phản ứng phản vệ, nhưng nặng hơn nhiều, đặc biệt là giảm huyết áp. Các triệu chứng khác gồm suy hô hấp, tan máu, đông máu rải rác nội mạch, suy thận.</p><p>Điều trị: Điều trị hỗ trợ theo triệu chứng.</p>",
+  "image": [
+    "http://localhost:5000/upload/2023-04-01T15-51-51.828ZAcetylCystein Boston 200.jpg"
+  ],
+  "rating": 0,
+  "numberReviews": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680364312097"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680491697514"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642a24017e3e5b4f38df994f"
+  },
+  "name": "Siro hỗ trợ tăng trưởng và phát triển cho trẻ Annaton Kiddi (Hộp 1 chai 100ml)",
+  "regisId": "12",
+  "category": {
+    "$oid": "641470f5025a06b0312cf93a"
+  },
+  "categoryDrug": {
+    "$oid": "642a23507e3e5b4f38df9922"
+  },
+  "expDrug": 5,
+  "unit": "Hộp",
+  "packing": "Hộp 1 chai 100ml",
+  "APIs": [
+    {
+      "API": "Bổ sung dưỡng chất",
+      "content": 1
+    }
+  ],
+  "brandName": "Siro hỗ trợ tăng trưởng và phát triển cho trẻ Annaton Kiddi (Hộp 1 chai 100ml)",
+  "manufacturer": "Việt Nam",
+  "countryOfOrigin": "Việt Nam",
+  "instruction": "<p><strong>Cách sử dụng</strong><br>Trẻ 02-06 tuổi: Uống 5ml/lần x 1 lần/ ngày<br>Trẻ trên 06 tuổi: Uống 10ml/lần x 2 lần/ ngày<br>Trẻ dưới 02 tuổi nên tham khảo ý kiến của bác sĩ, dược sĩ trước khi sử dụng<br>Uống vào buổi sáng và chiều trước ăn hoặc sau ăn khoảng 01 giờ.<br>Lắc kỹ trước khi sử dụng.</p><p><strong>Khuyến cáo</strong><br>Không sử dụng cho người mẫn cảm với bất kỳ thành phần nào của sản phẩm.</p><p><strong>Bảo quản:</strong> Bảo quản nơi khô ráo, thoáng mát, nhiệt độ dưới 25oC. Để xa tầm tay trẻ em.</p><p><strong>Đóng gói:</strong> Chai 100ml</p><p><strong>Xuất xứ thương hiệu:</strong> Việt Nam</p><p><strong>Sản xuất bởi:</strong> CÔNG TY TNHH MEDISTAR VIỆT NAM – NHÀ MÁY SỐ 1<br>Lô 38-2, Khu công nghiệp Quang Minh, Huyện Mê Linh, TP. Hà Nội.</p><p><strong>Thương nhân công bố, nhập khẩu và chịu trách nhiệm về sản phẩm</strong><br>Cơ sở đăng ký bản công bố sản phẩm: CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ AN DƯỢC<br>Tầng 3, tòa nhà An Phú Plaza 117-119 Lý Chính Thắng, Phường 7, Quận 3, TP. HCM<br>Số tiếp nhận đăng ký công bố sản phẩm: 993/2020/ĐKSP của Cục An Toàn Thực Phẩm – Bộ Y Tế.<br>Cơ sở phân phối: CÔNG TY TNHH DƯỢC NAM SÀI GÒN<br>56 Võ Liêm Sơn, Phường 04, Quận 08, Thành phố Hồ Chí Minh</p><p><strong>Số đăng ký công bố:</strong> 993/2020/ĐKSP của Cục An Toàn Thực Phẩm – Bộ Y Tế.</p><p><i>Sản phẩm này không phải là thuốc và không có tác dụng thay thể thuốc chữa bệnh.</i><br><i>Để xa tầm tay trẻ em. Đọc kỹ hướng dẫn sử dụng trước khi dùng.</i></p>",
+  "price": 40000,
+  "allowToSell": true,
+  "prescription": false,
+  "description": "<p><strong>Thành phần</strong><br>Trong 100ml chứa:<br>L-Lysine hydrochloride: 3000mg<br>Calcium gluconat: 1000mg<br>Inositol: 180mg<br>Kẽm gluconat: 140mg<br>Taurine: 100mg<br>Magie Gluconat: 100mg<br>L-arginine HCI: 70,4mg<br>Springer 0203 (Chiết xuất nấm men): 50mg<br>Niacin/ Vitamin B3: 50mg<br>Chiết xuất gừng (Ginger): 30mg<br>Axit pantothenic/ Vitamin B5: 20mg<br>Riboflavin/vitamin B2: 0,8mg<br>Kali iodid: 0,8mg<br>Thiamine/vitamin B1: 0,6mg<br>Pyridoxine/vitamin B6: 0,6mg Vitamin<br>B8 (Biotin): 50mcg<br>Cyanocobalamin/vitamin B12: 50mcg</p><p><strong>Công dụng</strong><br>Bổ sung acid amin, vitamin và khoáng chất, hỗ trợ tăng cường tiêu hóa, giúp ăn ngon miệng, giúp cơ thể khỏe mạnh.</p><p><strong>Đối tượng sử dụng</strong><br>Trẻ biếng ăn, tiêu hóa kém, suy dinh dưỡng, gầy yếu, mới ốm dậy, sức đề kháng kém. Trẻ đang trong độ tuổi phát triển cần tăng cường sức khỏe.</p>",
+  "image": [
+    "http://localhost:5000/upload/2023-04-03T00-55-29.044ZSiro há» trá»£ tÄng trÆ°á»ng vÃ  phÃ¡t triá»n cho tráº» Annaton Kiddi (Há»p 1 chai 100ml).jpg"
+  ],
+  "rating": 5,
+  "numberReviews": 1,
+  "reviews": [
+    {
+      "name": "Admin",
+      "rating": 5,
+      "comment": "Sản nghiệm sản phẩm khá tốt và đem lại hiệu quả cao. Tôi rất hài lòng",
+      "isShow": true,
+      "user": {
+        "$oid": "63ec67fdb5111f062b6685d3"
+      },
+      "_id": {
+        "$oid": "642a8cc67eabc2231985d41a"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680483329353"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680510150597"
+    }
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "642a24a97e3e5b4f38df9961"
+  },
+  "name": "Bổ sung vitamin, tăng sức đề kháng cho bé Traphaco Antot Thymo (2 Vỉ x 10 Ống)",
+  "regisId": "132",
+  "category": {
+    "$oid": "641470f5025a06b0312cf93a"
+  },
+  "categoryDrug": {
+    "$oid": "642a23507e3e5b4f38df9922"
+  },
+  "expDrug": 12,
+  "unit": "Vỉ",
+  "packing": "2 Vỉ x 10 Ống",
+  "APIs": [
+    {
+      "API": "Bổ sung dưỡng chất",
+      "content": 1
+    }
+  ],
+  "brandName": "Bổ sung vitamin, tăng sức đề kháng cho bé Traphaco Antot Thymo (2 Vỉ x 10 Ống)",
+  "manufacturer": "Việt Nam",
+  "countryOfOrigin": "Việt Nam",
+  "instruction": "<p><strong>Cách sử dụng</strong><br>Trẻ em dưới 1 tuổi: sử dụng sản phẩm theo hướng dẫn của bác sĩ.<br>Trẻ em từ 1 - 6 tuổi: 1 ống/lần.<br>Trẻ em từ 6 - 12 tuổi: 1 ống/lần x 2 lần/ngày.<br>Trẻ em trên 12 tuổi và người lớn: 1 - 2 ống/lần x 2 lần/ngày. Lưu ý:<br>Không dùng sản phẩm khi ống không còn nguyên vẹn, bị nứt, gẫy hoặc có dấu hiệu khác thường.</p><p>&nbsp;</p><p><strong>Bảo quản:</strong> Nơi khô ráo, thoáng mát, tránh đổ vỡ.</p><p>&nbsp;</p><p><strong>Đóng gói:</strong> 2 vỉ X 10 ống</p><p>&nbsp;</p><p><strong>Xuất xứ thương hiệu:</strong> Việt Nam</p><p>&nbsp;</p><p><strong>Sản xuất bởi:</strong> Công ty cổ phần Traphaco<br>Địa chỉ: 75 phố Yên Ninh, phường quán thánh, quận Ba Đình, thành phố Hà Nội<br>Điện thoại: 2438430076</p><p>&nbsp;</p><p><strong>Chịu trách nhiệm đưa sản phẩm ra thị trường</strong><br>Công ty cổ phần Traphaco<br>Địa chỉ: 75 phố Yên Ninh, phường quán thánh, quận Ba Đình, thành phố Hà Nội<br>Điện thoại: 2438430076</p><p>&nbsp;</p><p><strong>Số giấy XNQC:</strong> 1020/2020/XNQC-ATT</p>",
+  "price": 77000,
+  "allowToSell": true,
+  "prescription": false,
+  "description": "<p><strong>Công dụng</strong><br>Bổ sung Thymomodulin giúp tăng cường sức đề kháng trong các bệnh nhiễm khuẩn, đặc biệt nhiễm khuẩn đường hô hấp và bệnh cảm cúm trong mùa<br>Bổ sung các acid amin (đặc biệt là lysin), cholin, taurin giúp ăn ngon miệng, bồi bổ cơ thể và phục hồi sức khỏe.</p><p>&nbsp;</p><p><strong>Đối tượng sử dụng</strong><br>Người mới ốm dậy, cơ thể suy nhược, gầy yếu, trẻ em chậm phát triển. Người lớn và trẻ emsuy giảm sức đề kháng dễ bị nhiễm khuẩn đặc biệt nhiễm khuẩn đường hô hấp hoặc cảm cúm. Trẻ em trong giai đoạn tăng trưởng, phát triển và trong thời kỳ học tập thi cử</p>",
+  "image": [
+    "http://localhost:5000/upload/2023-04-03T00-58-17.457ZBá» sung vitamin, tÄng sá»©c Äá» khÃ¡ng cho bÃ© Traphaco Antot Thymo (2 Vá» x 10 á»ng).jpg",
+    "http://localhost:5000/upload/2023-04-03T05-52-58.728ZTraphaco Antot Thymo2.jpg",
+    "http://localhost:5000/upload/2023-04-03T05-52-58.979ZTraphaco Antot Thymo3.jpg"
+  ],
+  "rating": 5,
+  "numberReviews": 1,
+  "reviews": [
+    {
+      "name": "Admin",
+      "rating": 5,
+      "comment": "Sản nghiệm sản phẩm khá tốt và đem lại hiệu quả cao. Tôi rất hài lòng",
+      "isShow": true,
+      "user": {
+        "$oid": "63ec67fdb5111f062b6685d3"
+      },
+      "_id": {
+        "$oid": "642a8cb37eabc2231985d3e6"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680483497729"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680510131119"
+    }
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "642a25437e3e5b4f38df99ab"
+  },
+  "name": "Thực phẩm bảo vệ sức khỏe ống uống bổ sung canxi cho trẻ em BDF Kids - Bidiphar Calci Vita (Hộp 24 ống x 5ml)",
+  "regisId": "3123",
+  "category": {
+    "$oid": "641470f5025a06b0312cf93a"
+  },
+  "categoryDrug": {
+    "$oid": "642a23507e3e5b4f38df9922"
+  },
+  "expDrug": 12,
+  "unit": "Hộp",
+  "packing": "Hộp 24 ống x 5ml",
+  "APIs": [
+    {
+      "API": "Bổ sung dưỡng chất",
+      "content": 1
+    }
+  ],
+  "brandName": "Thực phẩm bảo vệ sức khỏe ống uống bổ sung canxi cho trẻ em BDF Kids - Bidiphar Calci Vita (Hộp 24 ống x 5ml)",
+  "manufacturer": "Việt Nam",
+  "countryOfOrigin": "Việt Nam",
+  "instruction": "<p><strong>Công dụng</strong><br><strong>- </strong>Hỗ trợ bổ sung Canxi và Vitamin D3 cho cơ thể, hỗ trợ tăng cường hấp thu canxi, giúp xương và răng chắc khỏe.<br>- Hỗ trợ phát triển chiều cao, giúp giảm nguy cơ còi xương ở trẻ em và loãng xương ở người lớn.</p><p>&nbsp;</p><p><strong>Đối tượng sử dụng</strong><br><strong>- </strong>Trẻ còi xương, chậm mọc răng hoặc thanh thiếu niên đang trong giai đoạn phát triển chiều cao có nhu cầu bổ sung canxi.<br>- Phụ nữ chuẩn bị mang thai, đang mang thai và cho con bú, phụ nữ đang tuổi tiền mãn kinh tăng nhu cầu bổ sung canxi.<br>- Người bị hạ canxi huyết, người cao tuổi, người có nguy cơ loãng xương, người bị loãng xương cần bổ sung canxi.</p><p>&nbsp;</p><p><strong>Hướng dẫn sử dụng</strong><br><strong>- </strong>Trẻ em từ 1 – 3 tuổi: 1 ống/ngày vào buổi sáng hoặc trưa.<br>- Trẻ em từ 3 – 9 tuổi: 1 – 2 ống/ngày vào buổi sáng và buổi trưa.<br>- Thanh thiếu niên ≥ 9 tuổi và người lớn: Uống 2 – 4 ống/ngày vào buổi sáng và buổi trưa.<br>- Bẻ 1 đầu ống, dốc ngược đầu ống vào cốc uống nước, bẻ đầu ống còn lại để dung dịch uống Calci Vita-BDF chảy hết vào ly.</p><p>&nbsp;</p><p><strong>Lưu ý</strong><br>– Để xa tầm tay của trẻ em.<br>– Không dùng cho người bị sỏi thận, sỏi tiết niệu.<br>– Không dùng cho người mẫn cảm với bất kỳ thành phần nào của sản phẩm.<br>– Thực phẩm này không phải là thuốc, không có tác dụng thay thế thuốc chữa bệnh.</p><p>&nbsp;</p><p><strong>Quy cách đóng gói:</strong>&nbsp;Hộp 24 ống x 5ml</p><p>&nbsp;</p><p><strong>Bảo quản:</strong> Nơi khô, nhiệt độ không quá 30 độ C, tránh ánh sáng</p><p>&nbsp;</p><p><strong>Số giấy công bố: </strong>4799/2021/ĐKSP</p><p>&nbsp;</p><p><strong>Số giấy XNQC: </strong>Số 1893/2021/XNQC-ATTP</p><p>&nbsp;</p><p><strong>Xuất xứ thương hiệu: </strong>Việt Nam</p><p>&nbsp;</p><p><strong>Thương hiệu:</strong> Bidiphar</p><p><i>Sản phẩm này không phải là thuốc và không có tác dụng thay thể thuốc chữa bệnh.</i></p><p><i>Để xa tầm tay trẻ em. Đọc kỹ hướng dẫn sử dụng trước khi dùng.</i></p>",
+  "price": 91000,
+  "allowToSell": true,
+  "prescription": false,
+  "description": "<p>Ống uống bổ sung canxi cho trẻ em BDF Kids - Bidiphar Calci Vita hỗ trợ bổ sung Canxi và Vitamin D3 cho cơ thể, hỗ trợ tăng cường hấp thu canxi, giúp xương và răng chắc khỏe. Hỗ trợ phát triển chiều cao, giúp giảm nguy cơ còi xương ở trẻ em và loãng xương ở người lớn.</p><p><strong>Thành phần</strong><br><strong>- </strong>Mỗi 5ml dung dịch chứa:<br>+ Canxi glucoheptonat 550mg<br>+ Vitamin C 50mg<br>+ Vitamin PP 4mg<br>+ Vitamin D3 100IU<br>+ Tá dược vđ 5ml</p><p>&nbsp;</p><p><strong>Công dụng</strong><br><strong>- </strong>Hỗ trợ bổ sung Canxi và Vitamin D3 cho cơ thể, hỗ trợ tăng cường hấp thu canxi, giúp xương và răng chắc khỏe.<br>- Hỗ trợ phát triển chiều cao, giúp giảm nguy cơ còi xương ở trẻ em và loãng xương ở người lớn.</p>",
+  "image": [
+    "http://localhost:5000/upload/2023-04-03T01-00-51.009ZThá»±c pháº©m báº£o vá» sá»©c khá»e á»ng uá»ng bá» sung canxi cho tráº» em BDF Kids - Bidiphar Calci Vita (Há»p 24 á»ng x 5ml).jpg"
+  ],
+  "rating": 4,
+  "numberReviews": 1,
+  "reviews": [
+    {
+      "name": "Khoa Tran",
+      "rating": 4,
+      "comment": "ok",
+      "isShow": true,
+      "user": {
+        "$oid": "63ec67fdb5111f062b6685d4"
+      },
+      "_id": {
+        "$oid": "642ad42dff20e6f76c7ca605"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680483651275"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680528429077"
+    }
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "642a25aa7e3e5b4f38df99b7"
+  },
+  "name": "Men vi sinh hỗ trợ đường ruột cho trẻ em Bio Plus (Hộp 100 gói)",
+  "regisId": "34",
+  "category": {
+    "$oid": "641470f5025a06b0312cf93a"
+  },
+  "categoryDrug": {
+    "$oid": "642a23507e3e5b4f38df9922"
+  },
+  "expDrug": 24,
+  "unit": "Hộp",
+  "packing": "Hộp 100 gói",
+  "APIs": [
+    {
+      "API": "Bổ sung dưỡng chất",
+      "content": 1
+    }
+  ],
+  "brandName": "Men vi sinh hỗ trợ đường ruột cho trẻ em Bio Plus (Hộp 100 gói)",
+  "manufacturer": "Việt Nam",
+  "countryOfOrigin": "Việt Nam",
+  "instruction": "<p><strong>Đối tượng sử dụng</strong></p><p>Trẻ từ 1 tuổi và người lớn bị rối loạn tiêu hóa do loạn khuẩn đường ruột. Người uống kháng sinh gây loạn khuẩn đường ruột.</p><p>&nbsp;</p><p><strong>Cách sử dụng&nbsp;</strong></p><p>Hòa tan gói cốm vào nước, khuấy tan đều rồi uống. Uống trước khi ăn.</p><p>Trẻ em từ 1 tuổi - 6 tuổi uống 1 gói/lần x 2 lần/ngày. Pha gói cốm uống với 20-25ml nước, khuấy tan đều.</p><p>Trẻ em trên 6 tuổi và người lớn uống 1 gói.lần x 2-3 lần/ngày. Pha gói cốm với 50-100ml nước, khuấy tan đều.</p><p>&nbsp;</p><p><strong>Bảo quản:</strong> Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp.</p><p>&nbsp;</p><p><strong>Hạn sử dụng:</strong>&nbsp;36 tháng kể từ ngày sản xuất. Ngày sản xuất và Hạn sử dụng in trên bao bì.</p><p>&nbsp;</p><p><strong>Quy cách đóng gói: </strong>Hộp 100 gói</p><p>&nbsp;</p><p><strong>Thương hiệu:</strong>&nbsp;Bio Plus</p><p>&nbsp;</p><p><strong>Nơi sản xuất:</strong> Việt Nam</p><p>&nbsp;</p><p><strong>Công ty chịu trách nhiệm và phân phối sản phẩm</strong></p><p>Công Ty Tnhh Dược Phẩm Dược Liệu Hà Nội</p><p>&nbsp;</p><p><strong>Công ty chịu trách nhiệm sản phẩm</strong></p><p>Công Ty Tnhh Dược Phẩm Dược Liệu Hà Nội</p><p>&nbsp;</p><p><strong>Công ty phân phối sản phẩm</strong></p><p>Công Ty Cổ Phần Dược Phẩm Công Nghệ Bibita</p><p>&nbsp;</p><p><strong>Số Giấy công bố:</strong>&nbsp;5/2022/0109840293-DKCB&nbsp;</p><p>&nbsp;</p><p><i>Sản phẩm này không phải là thuốc, không có tác dụng thay thế thuốc chữa bệnh.</i></p><p><i>Để xa tầm tay trẻ em. Đọc kỹ hướng dẫn sử dụng trước khi dùng.</i></p>",
+  "price": 496000,
+  "allowToSell": true,
+  "prescription": false,
+  "description": "<p><strong>Thành phần</strong></p><p>Trong mỗi gói có chứa:</p><p>   Bacillus subtilis 10⁸CFU</p><p>   Lactobacillus acidophilus 10⁸CFU</p><p>   Enterococcus faecalis 10⁸CFU</p><p>   Chiết xuất men bia 50mg</p><p>   L-Lysine Hydrochloride 20mg</p><p>   Taurine 20mg</p><p>   Sữa non (Colostrum) 20mg</p><p>   Immunepath-IP (chiết xuất vách tế bào Lactobacillus paracasei) 10mg</p><p>   DHA 10% 5mg</p><p>   Kẽm gluconat (chứa 1.43mg Kẽm) 4mg</p><p>   Vitamin B1 (Thiamin mononitrat) 2mg</p><p>   Vitamin B5 (D-pantothenat, calci) 2mg</p><p>   Vitamin B6 (Pyridoxin hydroclorid) 0.5mg</p><p>   Vitamin B2 (Cyanocobalamin) 0.5mg</p><p>   Phụ liệu: chất tạo ngọt tự nhiên (Đường kính trắng), chất tạo ngọt tổng hợp(đường lactose), chất ổn định (PVP K30), hương liệu tổng hợp (hương sữa).</p><p>&nbsp;</p><p><strong>Công dụng</strong></p><p>Bổ sung lợi khuẩn đường ruột. Hỗ trợ giảm các triệu chứng rối loạn tiêu hóa, phân sống do loạn khuẩn đường ruột.</p>",
+  "image": [
+    "http://localhost:5000/upload/2023-04-03T01-02-34.192ZMen vi sinh há» trá»£ ÄÆ°á»ng ruá»t cho tráº» em Bio Plus (Há»p 100 gÃ³i).jpg"
+  ],
+  "rating": 0,
+  "numberReviews": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680483754451"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680483754451"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642a26237e3e5b4f38df99c3"
+  },
+  "name": "Thực phẩm bảo vệ sức khỏe phòng ngừa biến chứng tiểu đường Boni Diabet (60 viên/hộp)",
+  "regisId": "422",
+  "category": {
+    "$oid": "63fda1ef0eb51f66e1dc731b"
+  },
+  "categoryDrug": {
+    "$oid": "63fda2350eb51f66e1dc7333"
+  },
+  "expDrug": 24,
+  "unit": "Hộp",
+  "packing": "60 viên/hộp",
+  "APIs": [
+    {
+      "API": "Bổ sung dưỡng chất",
+      "content": 1
+    }
+  ],
+  "brandName": "Thực phẩm bảo vệ sức khỏe phòng ngừa biến chứng tiểu đường Boni Diabet (60 viên/hộp)",
+  "manufacturer": "Việt Nam",
+  "countryOfOrigin": "Việt Nam",
+  "instruction": "<p><strong>Đối tượng sử dụng:</strong> Người bị bệnh tiểu đường, biến chứng do tiểu đường gây ra.</p><p><strong>Cách sử dụng: </strong>Uống 2 - 4 viên/ngày, chia làm 2 lần.</p><p><strong>Bảo quản: </strong>Nơi khô ráo, tránh ẩm, tránh ánh nắng trực tiếp.</p><p><strong>Đóng gói: </strong>Hộp 60 viên</p><p><strong>Xuất xứ thương hiệu: </strong>Mỹ</p><p><strong>Sản xuất bởi: </strong>Công ty J&amp;E International Corp</p><p>Địa chỉ: 1365 Stonegate Way Ferndale, WA, 98248-7824, Mỹ</p><p><strong>Chịu trách nhiệm đưa sản phẩm ra thị trường</strong></p><p>Công ty TNHH Thiết bị y tế Minh Duy</p><p>Địa chỉ: Số 281 Đội Cấn, Phường Liễu Giai, Quận Ba Đình, Hà Nội</p><p>Điện thoại: 0243.722.8101</p><p><strong>Số giấy XNQC:</strong> 01507/2018/ATTP-XNQC</p><p>&nbsp;</p><p><i>Sản phẩm này không phải là thuốc và không có tác dụng thay thể thuốc chữa bệnh.</i></p><p><i>Để xa tầm tay trẻ em. Đọc kỹ hướng dẫn sử dụng trước khi dùng.</i></p>",
+  "price": 405000,
+  "allowToSell": true,
+  "prescription": false,
+  "description": "<p><strong>Thành phần</strong></p><p>Magnesium 30mg, kẽm 5mg, Selenium 70mcg, Chromium: 120mcg, Alpha Lipoic acid 50mcg, chiết xuất dây thìa canh 100 mg, bột mướp đắng 100mg, bột quế 50mg, Vitamin C 150mg, Acid Folic 250 mcg…</p><p>Phụ liệu: Microcrystalline Cellulose, Fumed Silica.</p><p><strong>Công dụng</strong></p><p>Hỗ trợ giúp giảm lượng đường trong máu, giúp giảm các biến chứng của bệnh tiểu đường, hỗ trợ giảm cholesterol máu.</p>",
+  "image": [
+    "http://localhost:5000/upload/2023-04-03T01-04-35.536ZThá»±c pháº©m báº£o vá» sá»©c khá»e phÃ²ng ngá»«a biáº¿n chá»©ng tiá»u ÄÆ°á»ng Boni Diabet.jpg"
+  ],
+  "rating": 4.5,
+  "numberReviews": 2,
+  "reviews": [
+    {
+      "name": "Admin",
+      "rating": 5,
+      "comment": "Sản nghiệm sản phẩm khá tốt và đem lại hiệu quả cao. Tôi rất hài lòng",
+      "isShow": true,
+      "user": {
+        "$oid": "63ec67fdb5111f062b6685d3"
+      },
+      "_id": {
+        "$oid": "642a8c927eabc2231985d3b7"
+      }
+    },
+    {
+      "name": "Khoa Tran",
+      "rating": 4,
+      "comment": "Tôi rất hài lòng\n",
+      "isShow": true,
+      "user": {
+        "$oid": "63ec67fdb5111f062b6685d4"
+      },
+      "_id": {
+        "$oid": "642a8efc7eabc2231985d544"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680483875802"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682171796469"
+    }
+  },
+  "__v": 4
+},{
+  "_id": {
+    "$oid": "642a26807e3e5b4f38df99cf"
+  },
+  "name": "Thực phẩm bảo vệ sức khỏe hỗ trợ bệnh tiểu đường Diabetna (Hộp 40 viên)",
+  "regisId": "132",
+  "category": {
+    "$oid": "63f62cd58608375eae4eea50"
+  },
+  "categoryDrug": {
+    "$oid": "63fda2350eb51f66e1dc7333"
+  },
+  "expDrug": 24,
+  "unit": "Hộp",
+  "packing": "Hộp 40 viên",
+  "APIs": [
+    {
+      "API": "Bổ sung dưỡng chất",
+      "content": 1
+    }
+  ],
+  "brandName": "Thực phẩm bảo vệ sức khỏe hỗ trợ bệnh tiểu đường Diabetna (Hộp 40 viên)",
+  "manufacturer": "Việt Nam",
+  "countryOfOrigin": "Việt Nam",
+  "instruction": "<p><strong>Đối tượng sử dụng</strong></p><p>Dùng cho người bị tiểu đường typ I và typ II.</p><p>Người có đường huyết cao, tiền đái tháo đường.</p><p>Người cần ổn định đường huyết và ngăn ngừa biến chứng của bệnh tiểu đường.</p><p><strong>Cách sử dụng: </strong>Ngày uống 2 lần, mỗi lần 2 viên. Uống vào buổi sáng và buổi tối trước bữa ăn 30 phút.</p><p><strong>Bảo quản:</strong> Nơi khô ráo, nhiệt độ không quá 30 độ C, tránh ánh sáng.</p><p><strong>Quy cách đóng gói: </strong>Hộp 4 vỉ, mỗi vỉ 10 viên nang.</p><p><strong>Xuất xứ thương hiệu:</strong> Việt Nam</p><p><strong>Tên nhà sản xuất: </strong>Công ty TNHH Nam Dược</p><p>Địa chỉ: Lô M13 (C4-9), KCN Hòa Xá, Xã Mỹ Xá, TP. Nam Định</p><p><strong>Chịu trách nhiệm đưa sản phẩm ra thị trường:</strong>&nbsp;Công ty TNHH Dược phẩm Ích Nhân</p><p>Địa chỉ: Lô A18/D7 khu đô thị mới Cầu Giấy, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội</p><p>Điện thoại: 0437914041</p><p><strong>Số giấy XNQC: </strong>02823/2017/ATTP-XNQC</p><p><i>*Thực phẩm này không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh.</i></p>",
+  "price": 108000,
+  "allowToSell": true,
+  "prescription": false,
+  "description": "<p><strong>Thành phần</strong></p><p>Cao lá dây thìa canh (Gymnema sylvestre) 0,185g (tương đương 1,5g lá khô)</p><p>Amidon, aerosol, PEG 6000, tween 80, talc, magnesi stearate, koli sorbat,...vừa đủ 1 viên.</p><p><strong>Công dụng</strong></p><p>Hỗ trợ sinh tân, chỉ khát, làm hạ đường huyết hỗ trợ phòng ngừa bệnh tiểu đường, ổn định đường huyết và ngăn ngừa các biến chứng của bệnh tiểu đường.</p>",
+  "image": [
+    "http://localhost:5000/upload/2023-04-03T01-06-07.944ZThá»±c pháº©m báº£o vá» sá»©c khá»e há» trá»£ bá»nh tiá»u ÄÆ°á»ng Diabetna (Há»p 40 viÃªn).jpg"
+  ],
+  "rating": 4,
+  "numberReviews": 1,
+  "reviews": [
+    {
+      "name": "Khoa Tran",
+      "rating": 4,
+      "comment": "ok",
+      "isShow": true,
+      "user": {
+        "$oid": "63ec67fdb5111f062b6685d4"
+      },
+      "_id": {
+        "$oid": "642ad4bcff20e6f76c7ca715"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680483968211"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680528572671"
+    }
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "642a26e87e3e5b4f38df99e7"
+  },
+  "name": "Thực phẩm bảo vệ sức khỏe hỗ trợ kiểm soát lượng đường trong máu Bewel Glucowel (Hộp 45 viên)",
+  "regisId": "132",
+  "category": {
+    "$oid": "63fda1ef0eb51f66e1dc731b"
+  },
+  "categoryDrug": {
+    "$oid": "63fda2350eb51f66e1dc7333"
+  },
+  "expDrug": 0,
+  "unit": "Hộp",
+  "packing": "Hộp 45 viên",
+  "APIs": [
+    {
+      "API": "Bổ sung dưỡng chất",
+      "content": 1
+    }
+  ],
+  "brandName": "Thực phẩm bảo vệ sức khỏe hỗ trợ kiểm soát lượng đường trong máu Bewel Glucowel (Hộp 45 viên)",
+  "manufacturer": "Nhật",
+  "countryOfOrigin": "Nhật",
+  "instruction": "<p><strong>Đối tượng sử dụng: </strong>Người từ 18 tuổi trở lên, có nguy cơ đường trong máu cao, hoặc có bệnh lý về tiểu đường.</p><p><strong>Hướng dẫn sử dụng:</strong> Dùng 3 viên/ngày, sau bữa ăn chính.</p><p><strong>Bảo quản:</strong> Nơi khô mát, tránh ánh sáng trực tiếp. Để xa tầm với trẻ em.</p><p><strong>Quy cách đóng gói:</strong> Hộp 45 viên</p><p><strong>Xuất xứ thương hiệu</strong>: Nhật Bản</p><p><strong>Sản xuất tại:</strong> Nhật Bản</p><p><i>Sản phẩm này không phải là thuốc và không có tác dụng thay thể thuốc chữa bệnh.</i><br><i>Để xa tầm tay trẻ em. Đọc kỹ hướng dẫn sử dụng trước khi dùng.</i></p>",
+  "price": 219000,
+  "allowToSell": true,
+  "prescription": false,
+  "description": "<p><strong>Thành phần</strong><br>Mỗi viên chứa:<br>- Tinh chất mướp đắng 62.50mg<br>- Tinh chất lá dâu tằm 35.00mg<br>- Cây rễ vàng 5.00mg<br>- Cải lá xoăn 5.00mg<br>Phụ liệu vừa đủ 1 viên</p><p><strong>Công dụng:</strong> Hỗ trợ kiểm soát và giảm lượng đường trong máu</p>",
+  "image": [
+    "http://localhost:5000/upload/2023-04-03T01-07-52.417ZThá»±c pháº©m báº£o vá» sá»©c khá»e há» trá»£ kiá»m soÃ¡t lÆ°á»£ng ÄÆ°á»ng trong mÃ¡u Bewel Glucowel (Há»p 45 viÃªn).jpg"
+  ],
+  "rating": 5,
+  "numberReviews": 1,
+  "reviews": [
+    {
+      "name": "Admin",
+      "rating": 5,
+      "comment": "Tốt!",
+      "isShow": true,
+      "user": {
+        "$oid": "63ec67fdb5111f062b6685d3"
+      },
+      "_id": {
+        "$oid": "642a8d217eabc2231985d49e"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680484072681"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680510241637"
+    }
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "642a27597e3e5b4f38df9a0b"
+  },
+  "name": "Viên hỗ trợ giảm đường huyết Healthy Life Green Living (Hộp 60 viên)",
+  "regisId": "32",
+  "category": {
+    "$oid": "63fda1ef0eb51f66e1dc731b"
+  },
+  "categoryDrug": {
+    "$oid": "63fda2350eb51f66e1dc7333"
+  },
+  "expDrug": 12,
+  "unit": "Hộp",
+  "packing": "Hộp 60 viên",
+  "APIs": [
+    {
+      "API": "Bổ sung dưỡng chất",
+      "content": 1
+    }
+  ],
+  "brandName": "Viên hỗ trợ giảm đường huyết Healthy Life Green Living (Hộp 60 viên)",
+  "manufacturer": "Mỹ",
+  "countryOfOrigin": "Mỹ",
+  "instruction": "<p><strong>Đối tượng sử dụng</strong><br>Người có đường huyết cao, người bị bệnh đái tháo đường.</p><p><strong>Cách sử dụng</strong><br>Uống 1-2 viên/lần, ngày 3 lần cùng với bữa ăn hoặc sử dụng trực tiếp theo hướng dẫn của chuyên gia y tế</p><p><strong>Khuyến cáo</strong><br>Không sử dụng cho người mẫn cảm với bất kỳ thành phần nào của sản phẩm.<br>Không sử dụng nếu dấu niêm phong in trên nắp bị vỡ hoặc bị thiếu.</p><p><strong>Bảo quản:</strong> Nơi khô ráo thoáng mát, tránh ánh nắng trực tiếp.</p><p><strong>Đóng gói:</strong> Hộp 60 viên</p><p><strong>Xuất xứ thương hiệu:</strong> Mỹ</p><p><strong>Sản xuất bởi:</strong> AMF Pharma LLC<br>1931 S.Lynx Place, Ontario, CA 91761, Mỹ</p><p><strong>Thương nhân công bố, nhập khẩu và chịu trách nhiệm về sản phẩm</strong><br>CÔNG TY CỔ PHẦN VITABELLA<br>Phòng 1901, tòa nhà Saigon Trade Center, số 37 Tôn Đức Thắng, phường Bến Nghé, quận 1, Thành phố Hồ Chí Minh</p><p><strong>Số đăng ký công bố:</strong> 4247/2020/ĐKSP của Cục An Toàn Thực Phẩm – Bộ Y Tế.</p><p><i>Sản phẩm này không phải là thuốc và không có tác dụng thay thể thuốc chữa bệnh.</i><br><i>Để xa tầm tay trẻ em. Đọc kỹ hướng dẫn sử dụng trước khi dùng.</i></p><p>&nbsp;</p>",
+  "price": 443000,
+  "allowToSell": true,
+  "prescription": false,
+  "description": "<p><strong>Thành phần</strong><br>Trong 1 viên nang cứng (425mg/viên) chứa:<br>Biotin 15mg<br>Chiết xuất Dây thìa canh 200mg<br>Chiết xuất Linh chi 50mg<br>Chiết xuất Hoài sơn 40mg<br>Chiết xuất Sinh địa 40mg<br>Chiết xuất Ngọc trúc 20mg<br>Thành phần khác: Cellulose, gelatin, magnesium stearate.</p><p><strong>Công dụng</strong><br>Hỗ trợ giảm đường huyết về mức ổn định, giảm nguy cơ mắc các bệnh về tim mạch vành do đái tháo đường, hỗ trợ sức khỏe mắt và tim mạch, giúp giảm các biến chứng do đái tháo đường.</p>",
+  "image": [
+    "http://localhost:5000/upload/2023-04-03T01-09-45.697ZViÃªn há» trá»£ giáº£m ÄÆ°á»ng huyáº¿t Healthy Life Green Living (Há»p 60 viÃªn).jpg"
+  ],
+  "rating": 0,
+  "numberReviews": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680484185967"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680484185967"
+    }
+  },
+  "__v": 0
+}]

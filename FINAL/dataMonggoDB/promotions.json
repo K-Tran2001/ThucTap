@@ -1,0 +1,136 @@
+[{
+  "_id": {
+    "$oid": "6420563faa2cd28437f64727"
+  },
+  "name": "Khuyến mãi tháng 4",
+  "discount": 20,
+  "startOn": {
+    "$date": {
+      "$numberLong": "1680307200000"
+    }
+  },
+  "endOn": {
+    "$date": {
+      "$numberLong": "1682812800000"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679840831171"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1681477332607"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64206c70e94ae3be23c60546"
+  },
+  "name": "Mừng ngày quốc khánh",
+  "discount": 30,
+  "startOn": {
+    "$date": {
+      "$numberLong": "1680307200000"
+    }
+  },
+  "endOn": {
+    "$date": {
+      "$numberLong": "1693612800000"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679846512808"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1681477313961"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64206d3be94ae3be23c605da"
+  },
+  "name": "Mừng tết độc lập",
+  "discount": 15,
+  "startOn": {
+    "$date": {
+      "$numberLong": "1677628800000"
+    }
+  },
+  "endOn": {
+    "$date": {
+      "$numberLong": "1685491200000"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679846715791"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1681477299474"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64206ef2e94ae3be23c606c6"
+  },
+  "name": "Tết thiếu nhi",
+  "discount": 7,
+  "startOn": {
+    "$date": {
+      "$numberLong": "1679270400000"
+    }
+  },
+  "endOn": {
+    "$date": {
+      "$numberLong": "1680825600000"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679847154309"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1681141002218"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642394ced241231c63c9dd7f"
+  },
+  "name": "Sản phẩm mới",
+  "discount": 6,
+  "startOn": {
+    "$date": {
+      "$numberLong": "1680220800000"
+    }
+  },
+  "endOn": {
+    "$date": {
+      "$numberLong": "1680912000000"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680053454133"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1681141019079"
+    }
+  },
+  "__v": 0
+}]

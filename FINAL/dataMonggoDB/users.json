@@ -1,0 +1,228 @@
+[{
+  "_id": {
+    "$oid": "63ec67fdb5111f062b6685d3"
+  },
+  "name": "Admin",
+  "email": "admin@example.com",
+  "phone": "123121212",
+  "password": "$2a$10$OsuqWiCvoC6IMeFE9QoNLOSOF23gDG0XCLNrZ9pQu1Lo.Ipw3dLEu",
+  "isAdmin": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1676437501265"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680590043708"
+    }
+  },
+  "pCoin": 19700,
+  "role": "isAdmin"
+},{
+  "_id": {
+    "$oid": "642e1be1b3a6a4fde29e8b6e"
+  },
+  "name": "khoasell",
+  "email": "khoasell@gmail.com",
+  "phone": "13243534",
+  "password": "$2a$10$8S9i9bHreKAwuxEv9v1ImO8ZMYr6Dq355nhaYACqwpTGe2y1DhChy",
+  "pCoin": 0,
+  "isAdmin": false,
+  "role": "isSaleAgent",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680743393808"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680743393808"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642e3c676107869ce955dae6"
+  },
+  "name": "hoa",
+  "email": "hoa@gmail.com",
+  "phone": "28742985",
+  "password": "$2a$10$Waslxsc5x3/AeLmeKojTe.PlgLwOS3K/Bj7msaiBQVZ0tMQ3XvJoC",
+  "pCoin": 0,
+  "isAdmin": false,
+  "role": "userDefault",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680751719614"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682061989419"
+    }
+  },
+  "__v": 0,
+  "isDeleted": true
+},{
+  "_id": {
+    "$oid": "642e3d6a6107869ce955db97"
+  },
+  "name": "minh",
+  "email": "minh@gmail.com",
+  "phone": "27135254",
+  "password": "$2a$10$iWG7p0mMKhQwkhJtkN39aeP7cXOHCt3KL1czqnoMVa1sbyl3cnA2a",
+  "pCoin": 0,
+  "isAdmin": false,
+  "role": "isInventory",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680751978068"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682262336483"
+    }
+  },
+  "__v": 0,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "642e3e2d6107869ce955dcc7"
+  },
+  "name": "nam",
+  "email": "nam@gmail.com",
+  "phone": "12326354",
+  "password": "$2a$10$OsG86novERjSzanjw.CzD.PK/p9KTTBaoGzP/x/oT/JyCYIgeC4Cm",
+  "pCoin": 0,
+  "isAdmin": false,
+  "role": "userDefault",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680752173894"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682061981478"
+    }
+  },
+  "__v": 0,
+  "isDeleted": true
+},{
+  "_id": {
+    "$oid": "642e3f306107869ce955de6b"
+  },
+  "name": "demo",
+  "email": "demo@gmail.com",
+  "phone": "235124",
+  "password": "$2a$10$aWogzPu7oflXJMtGg6CO.OXfESrGehIFcxiUH.7L1Na4uQQWWrH.e",
+  "pCoin": 0,
+  "isAdmin": false,
+  "role": "userDefault",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680752432007"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682061985856"
+    }
+  },
+  "__v": 0,
+  "isDeleted": true
+},{
+  "_id": {
+    "$oid": "642e3fa46107869ce955e006"
+  },
+  "name": "khoa@gmail.com",
+  "email": "khoa@gmail.com",
+  "phone": "123242235",
+  "password": "$2a$10$HmhD5vhkYoYU2T0DF.QFMu1pdoomlznscQvRtj144lvri/rrrGJsK",
+  "pCoin": 36450,
+  "isAdmin": false,
+  "role": "userDefault",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680752548128"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1681117152535"
+    }
+  },
+  "__v": 0,
+  "isDeleted": true
+},{
+  "_id": {
+    "$oid": "642e3fd96107869ce955e055"
+  },
+  "name": "Tran Khoa",
+  "email": "khoatran135.246@gmail.com",
+  "phone": "0367855407",
+  "password": "$2a$10$EoyOPbpb8za.ABnp4ndZpe37G0IFq08DlxK9aMH/35a7HOFehxU8C",
+  "pCoin": 0,
+  "isAdmin": false,
+  "role": "isAdmin",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680752601077"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680752601077"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64301db8f6df458c41ef8b88"
+  },
+  "name": "khoa",
+  "email": "khoa123@gmail.com",
+  "phone": "132434",
+  "password": "$2a$10$2RTOp4v9Nb3Eb04pjGqFEO9VuEYBbO5ZDRo/4Yk6H7.oGpvw/zylG",
+  "pCoin": 0,
+  "isAdmin": false,
+  "role": "userDefault",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680874936544"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682061977498"
+    }
+  },
+  "__v": 0,
+  "isDeleted": true
+},{
+  "_id": {
+    "$oid": "64301e8ff6df458c41ef8cc8"
+  },
+  "name": "khoa678",
+  "email": "khoa678@gmail.com",
+  "phone": "124253",
+  "password": "$2a$10$BAL2rOVeNKOLQp6G0uIKtOmyFnvwmI4MFUnCBAkW5qeOkC5kUZTM.",
+  "pCoin": 0,
+  "isAdmin": false,
+  "role": "userDefault",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680875151236"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1681112246530"
+    }
+  },
+  "__v": 0,
+  "isDeleted": true
+}]

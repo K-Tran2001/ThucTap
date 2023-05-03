@@ -1,0 +1,549 @@
+[{
+  "_id": {
+    "$oid": "64285446713bb45efa3ec0e7"
+  },
+  "product": {
+    "$oid": "6405fc9f524831d21483d79d"
+  },
+  "isActive": true,
+  "stock": [
+    {
+      "lotNumber": "3",
+      "expDrug": {
+        "$date": {
+          "$numberLong": "1710633600000"
+        }
+      },
+      "count": 120,
+      "priority": 0
+    }
+  ],
+  "discount": 0,
+  "discountDetail": [
+    "64206f24e94ae3be23c606ce"
+  ],
+  "refunded": 3,
+  "viewNumber": 14,
+  "buyNumber": 2,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680364614976"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1681869041406"
+    }
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "64285447713bb45efa3ec0f1"
+  },
+  "product": {
+    "$oid": "642851e4713bb45efa3ebfca"
+  },
+  "isActive": true,
+  "stock": [
+    {
+      "lotNumber": "4",
+      "expDrug": {
+        "$date": {
+          "$numberLong": "1701388800000"
+        }
+      },
+      "count": 6,
+      "priority": 0
+    }
+  ],
+  "discount": 0,
+  "discountDetail": [],
+  "refunded": 0,
+  "viewNumber": 89,
+  "buyNumber": 4,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680364615035"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682294477473"
+    }
+  },
+  "__v": 6
+},{
+  "_id": {
+    "$oid": "64285447713bb45efa3ec0f6"
+  },
+  "product": {
+    "$oid": "64285318713bb45efa3ebffe"
+  },
+  "isActive": true,
+  "stock": [
+    {
+      "lotNumber": "5",
+      "expDrug": {
+        "$date": {
+          "$numberLong": "1690848000000"
+        }
+      },
+      "count": 116,
+      "priority": 0
+    }
+  ],
+  "discount": 0,
+  "discountDetail": [],
+  "refunded": 5,
+  "viewNumber": 142,
+  "buyNumber": 4,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680364615045"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682294452444"
+    }
+  },
+  "__v": 27
+},{
+  "_id": {
+    "$oid": "64285447713bb45efa3ec0fb"
+  },
+  "product": {
+    "$oid": "6406021f524831d21483d80e"
+  },
+  "isActive": true,
+  "stock": [
+    {
+      "lotNumber": "2",
+      "expDrug": {
+        "$date": {
+          "$numberLong": "1688169600000"
+        }
+      },
+      "count": 80,
+      "priority": 0
+    }
+  ],
+  "discount": 0,
+  "discountDetail": [],
+  "refunded": 4,
+  "viewNumber": 158,
+  "buyNumber": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680364615054"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682429432668"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64285447713bb45efa3ec100"
+  },
+  "product": {
+    "$oid": "6427a9373fc24899736979a6"
+  },
+  "isActive": true,
+  "stock": [
+    {
+      "lotNumber": "2",
+      "expDrug": {
+        "$date": {
+          "$numberLong": "1719792000000"
+        }
+      },
+      "count": 55,
+      "priority": 0
+    },
+    {
+      "lotNumber": "6",
+      "expDrug": {
+        "$date": {
+          "$numberLong": "1721088000000"
+        }
+      },
+      "count": 60,
+      "priority": 0
+    }
+  ],
+  "discount": 0,
+  "discountDetail": [],
+  "refunded": 4,
+  "viewNumber": 4,
+  "buyNumber": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680364615064"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682429421799"
+    }
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "64299406b255ce4025ae2f3e"
+  },
+  "product": {
+    "$oid": "64285283713bb45efa3ebfe4"
+  },
+  "isActive": true,
+  "stock": [
+    {
+      "lotNumber": "1",
+      "expDrug": {
+        "$date": {
+          "$numberLong": "1722470400000"
+        }
+      },
+      "count": 144,
+      "priority": 0
+    }
+  ],
+  "discount": 0,
+  "discountDetail": [],
+  "refunded": 6,
+  "viewNumber": 7,
+  "buyNumber": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680446470541"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682429411914"
+    }
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "642a29067e3e5b4f38df9b71"
+  },
+  "product": {
+    "$oid": "642a24017e3e5b4f38df994f"
+  },
+  "isActive": true,
+  "stock": [
+    {
+      "lotNumber": "5",
+      "expDrug": {
+        "$date": {
+          "$numberLong": "1696291200000"
+        }
+      },
+      "count": 40,
+      "priority": 0
+    }
+  ],
+  "discount": 0,
+  "discountDetail": [],
+  "refunded": 0,
+  "viewNumber": 8,
+  "buyNumber": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680484614243"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682266236919"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642a29067e3e5b4f38df9b80"
+  },
+  "product": {
+    "$oid": "642a26807e3e5b4f38df99cf"
+  },
+  "isActive": true,
+  "stock": [
+    {
+      "lotNumber": "2",
+      "expDrug": {
+        "$date": {
+          "$numberLong": "1706918400000"
+        }
+      },
+      "count": 70,
+      "priority": 0
+    }
+  ],
+  "discount": 0,
+  "discountDetail": [],
+  "refunded": 0,
+  "viewNumber": 2,
+  "buyNumber": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680484614285"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1681356471435"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642a29067e3e5b4f38df9b85"
+  },
+  "product": {
+    "$oid": "642a25aa7e3e5b4f38df99b7"
+  },
+  "isActive": false,
+  "stock": [
+    {
+      "lotNumber": "5",
+      "expDrug": {
+        "$date": {
+          "$numberLong": "1704240000000"
+        }
+      },
+      "count": 20,
+      "priority": 0
+    },
+    {
+      "lotNumber": "6",
+      "expDrug": {
+        "$date": {
+          "$numberLong": "1747353600000"
+        }
+      },
+      "count": 50,
+      "priority": 0
+    }
+  ],
+  "discount": 0,
+  "discountDetail": [],
+  "refunded": 7,
+  "viewNumber": 1,
+  "buyNumber": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680484614295"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682429401185"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642a29067e3e5b4f38df9b8a"
+  },
+  "product": {
+    "$oid": "642a25437e3e5b4f38df99ab"
+  },
+  "isActive": true,
+  "stock": [
+    {
+      "lotNumber": "5",
+      "expDrug": {
+        "$date": {
+          "$numberLong": "1696291200000"
+        }
+      },
+      "count": 20,
+      "priority": 0
+    }
+  ],
+  "discount": 0,
+  "discountDetail": [],
+  "refunded": 5,
+  "viewNumber": 7,
+  "buyNumber": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680484614305"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682429393211"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642a29067e3e5b4f38df9b94"
+  },
+  "product": {
+    "$oid": "642a26e87e3e5b4f38df99e7"
+  },
+  "isActive": true,
+  "stock": [
+    {
+      "lotNumber": "1",
+      "expDrug": {
+        "$date": {
+          "$numberLong": "1706918400000"
+        }
+      },
+      "count": 69,
+      "priority": 0
+    }
+  ],
+  "discount": 0,
+  "discountDetail": [],
+  "refunded": 3,
+  "viewNumber": 12,
+  "buyNumber": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680484614327"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682429385053"
+    }
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "642a29067e3e5b4f38df9b9e"
+  },
+  "product": {
+    "$oid": "642a24a97e3e5b4f38df9961"
+  },
+  "isActive": true,
+  "stock": [
+    {
+      "lotNumber": "5",
+      "expDrug": {
+        "$date": {
+          "$numberLong": "1696291200000"
+        }
+      },
+      "count": 15,
+      "priority": 0
+    }
+  ],
+  "discount": 15,
+  "discountDetail": [
+    "642394ced241231c63c9dd7f",
+    "64206d3be94ae3be23c605da"
+  ],
+  "refunded": 7,
+  "viewNumber": 14,
+  "buyNumber": 101,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680484614353"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682431632123"
+    }
+  },
+  "__v": 4
+},{
+  "_id": {
+    "$oid": "642a29067e3e5b4f38df9ba3"
+  },
+  "product": {
+    "$oid": "642a27597e3e5b4f38df9a0b"
+  },
+  "isActive": true,
+  "stock": [
+    {
+      "lotNumber": "1",
+      "expDrug": {
+        "$date": {
+          "$numberLong": "1706918400000"
+        }
+      },
+      "count": 84,
+      "priority": 0
+    }
+  ],
+  "discount": 30,
+  "discountDetail": [
+    "64206c70e94ae3be23c60546"
+  ],
+  "refunded": 5,
+  "viewNumber": 102,
+  "buyNumber": 4,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680484614365"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682432106258"
+    }
+  },
+  "__v": 14
+},{
+  "_id": {
+    "$oid": "642a29067e3e5b4f38df9ba8"
+  },
+  "product": {
+    "$oid": "642a26237e3e5b4f38df99c3"
+  },
+  "isActive": true,
+  "stock": [
+    {
+      "lotNumber": "5",
+      "expDrug": {
+        "$date": {
+          "$numberLong": "1704240000000"
+        }
+      },
+      "count": 17,
+      "priority": 0
+    }
+  ],
+  "discount": 0,
+  "discountDetail": [
+    "64206ef2e94ae3be23c606c6",
+    "6420563faa2cd28437f64727"
+  ],
+  "refunded": 3,
+  "viewNumber": 137,
+  "buyNumber": 10,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680484614375"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682431801146"
+    }
+  },
+  "__v": 22
+}]

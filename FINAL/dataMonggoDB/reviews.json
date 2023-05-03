@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "6401411ee087f29b3abb8f4f"
+  },
+  "name": "khoa tran ",
+  "rating": 5,
+  "comment": "very good",
+  "isActive": false,
+  "userId": {
+    "$oid": "63ec67fdb5111f062b6685d3"
+  },
+  "productId": {
+    "$oid": "63fc00346efc4c0aa74f4040"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677803806745"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677803941415"
+    }
+  },
+  "__v": 0
+}]
